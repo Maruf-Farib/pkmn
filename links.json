@@ -1,0 +1,898 @@
+[
+    {
+        "Name": "Shrouded Fable (SFA)",
+        "url": "https://pkmncards.com/set/shrouded-fable/"
+    },
+    {
+        "Name": "Twilight Masquerade (TWM)",
+        "url": "https://pkmncards.com/set/twilight-masquerade/"
+    },
+    {
+        "Name": "Temporal Forces (TEF)",
+        "url": "https://pkmncards.com/set/temporal-forces/"
+    },
+    {
+        "Name": "Paldean Fates (PAF)",
+        "url": "https://pkmncards.com/set/paldean-fates/"
+    },
+    {
+        "Name": "Paradox Rift (PAR)",
+        "url": "https://pkmncards.com/set/paradox-rift/"
+    },
+    {
+        "Name": "151 (MEW)",
+        "url": "https://pkmncards.com/set/151/"
+    },
+    {
+        "Name": "McDonald’s Match Battle 2023 (M23)",
+        "url": "https://pkmncards.com/set/mcdonalds-match-battle-2023/"
+    },
+    {
+        "Name": "Obsidian Flames (OBF)",
+        "url": "https://pkmncards.com/set/obsidian-flames/"
+    },
+    {
+        "Name": "Paldea Evolved (PAL)",
+        "url": "https://pkmncards.com/set/paldea-evolved/"
+    },
+    {
+        "Name": "Scarlet & Violet Energy (SVE)",
+        "url": "https://pkmncards.com/set/scarlet-violet-energy/"
+    },
+    {
+        "Name": "Scarlet & Violet (SVI)",
+        "url": "https://pkmncards.com/set/scarlet-violet/"
+    },
+    {
+        "Name": "Scarlet & Violet Promos (SVP)",
+        "url": "https://pkmncards.com/set/scarlet-violet-promos/"
+    },
+    {
+        "Name": "Crown Zenith (CRZ)",
+        "url": "https://pkmncards.com/set/crown-zenith/"
+    },
+    {
+        "Name": "Silver Tempest (SIT)",
+        "url": "https://pkmncards.com/set/silver-tempest/"
+    },
+    {
+        "Name": "Lost Origin (LOR)",
+        "url": "https://pkmncards.com/set/lost-origin/"
+    },
+    {
+        "Name": "McDonald’s Collection 2022 (MCD22)",
+        "url": "https://pkmncards.com/set/mcdonalds-collection-2022/"
+    },
+    {
+        "Name": "Pokémon GO (PGO)",
+        "url": "https://pkmncards.com/set/pokemon-go/"
+    },
+    {
+        "Name": "Astral Radiance (ASR)",
+        "url": "https://pkmncards.com/set/astral-radiance/"
+    },
+    {
+        "Name": "Sword & Shield Energy (Brilliant Stars)",
+        "url": "https://pkmncards.com/set/sword-shield-energy-brilliant-stars/"
+    },
+    {
+        "Name": "Brilliant Stars (BRS)",
+        "url": "https://pkmncards.com/set/brilliant-stars/"
+    },
+    {
+        "Name": "Fusion Strike (FST)",
+        "url": "https://pkmncards.com/set/fusion-strike/"
+    },
+    {
+        "Name": "Celebrations (CEL)",
+        "url": "https://pkmncards.com/set/celebrations/"
+    },
+    {
+        "Name": "Evolving Skies (EVS)",
+        "url": "https://pkmncards.com/set/evolving-skies/"
+    },
+    {
+        "Name": "Chilling Reign (CRE)",
+        "url": "https://pkmncards.com/set/chilling-reign/"
+    },
+    {
+        "Name": "Battle Styles (BST)",
+        "url": "https://pkmncards.com/set/battle-styles/"
+    },
+    {
+        "Name": "Shining Fates (SHF)",
+        "url": "https://pkmncards.com/set/shining-fates/"
+    },
+    {
+        "Name": "Vivid Voltage (VIV)",
+        "url": "https://pkmncards.com/set/vivid-voltage/"
+    },
+    {
+        "Name": "Champion’s Path (CPA)",
+        "url": "https://pkmncards.com/set/champions-path/"
+    },
+    {
+        "Name": "Darkness Ablaze (DAA)",
+        "url": "https://pkmncards.com/set/darkness-ablaze/"
+    },
+    {
+        "Name": "Rebel Clash (RCL)",
+        "url": "https://pkmncards.com/set/rebel-clash/"
+    },
+    {
+        "Name": "Sword & Shield (SSH)",
+        "url": "https://pkmncards.com/set/sword-shield/"
+    },
+    {
+        "Name": "Sword & Shield Energy",
+        "url": "https://pkmncards.com/set/sword-shield-energy/"
+    },
+    {
+        "Name": "Pokémon Futsal Promos 2020 (FUT20)",
+        "url": "https://pkmncards.com/set/pokemon-futsal-promos-2020/"
+    },
+    {
+        "Name": "Sword & Shield Promos",
+        "url": "https://pkmncards.com/set/sword-shield-promos/"
+    },
+    {
+        "Name": "Cosmic Eclipse (CEC)",
+        "url": "https://pkmncards.com/set/cosmic-eclipse/"
+    },
+    {
+        "Name": "McDonald’s Collection 2019 (MCD19)",
+        "url": "https://pkmncards.com/set/mcdonalds-collection-2019/"
+    },
+    {
+        "Name": "Hidden Fates (HIF)",
+        "url": "https://pkmncards.com/set/hidden-fates/"
+    },
+    {
+        "Name": "Unified Minds (UNM)",
+        "url": "https://pkmncards.com/set/unified-minds/"
+    },
+    {
+        "Name": "Unbroken Bonds (UNB)",
+        "url": "https://pkmncards.com/set/unbroken-bonds/"
+    },
+    {
+        "Name": "Detective Pikachu (DET)",
+        "url": "https://pkmncards.com/set/detective-pikachu/"
+    },
+    {
+        "Name": "Team Up (TEU)",
+        "url": "https://pkmncards.com/set/team-up/"
+    },
+    {
+        "Name": "Sun & Moon Energy (Team Up)",
+        "url": "https://pkmncards.com/set/sun-moon-energy-team-up/"
+    },
+    {
+        "Name": "Lost Thunder (LOT)",
+        "url": "https://pkmncards.com/set/lost-thunder/"
+    },
+    {
+        "Name": "Dragon Majesty (DRM)",
+        "url": "https://pkmncards.com/set/dragon-majesty/"
+    },
+    {
+        "Name": "Celestial Storm (CES)",
+        "url": "https://pkmncards.com/set/celestial-storm/"
+    },
+    {
+        "Name": "Forbidden Light (FLI)",
+        "url": "https://pkmncards.com/set/forbidden-light/"
+    },
+    {
+        "Name": "Ultra Prism (UPR)",
+        "url": "https://pkmncards.com/set/ultra-prism/"
+    },
+    {
+        "Name": "Crimson Invasion (CIN)",
+        "url": "https://pkmncards.com/set/crimson-invasion/"
+    },
+    {
+        "Name": "Shining Legends (SLG)",
+        "url": "https://pkmncards.com/set/shining-legends/"
+    },
+    {
+        "Name": "Burning Shadows (BUS)",
+        "url": "https://pkmncards.com/set/burning-shadows/"
+    },
+    {
+        "Name": "Guardians Rising (GRI)",
+        "url": "https://pkmncards.com/set/guardians-rising/"
+    },
+    {
+        "Name": "Sun & Moon Trainer Kit—Lycanroc (TK10L)",
+        "url": "https://pkmncards.com/set/sun-moon-trainer-kit-lycanroc/"
+    },
+    {
+        "Name": "Sun & Moon Trainer Kit—Alolan Raichu (TK10A)",
+        "url": "https://pkmncards.com/set/sun-moon-trainer-kit-alolan-raichu/"
+    },
+    {
+        "Name": "Sun & Moon (SUM)",
+        "url": "https://pkmncards.com/set/sun-moon/"
+    },
+    {
+        "Name": "Sun & Moon Energy",
+        "url": "https://pkmncards.com/set/sun-moon-energy/"
+    },
+    {
+        "Name": "Sun & Moon Promos (SMP)",
+        "url": "https://pkmncards.com/set/sun-moon-promos/"
+    },
+    {
+        "Name": "Evolutions (EVO)",
+        "url": "https://pkmncards.com/set/evolutions/"
+    },
+    {
+        "Name": "McDonald’s Collection 2016 (MCD16)",
+        "url": "https://pkmncards.com/set/mcdonalds-collection-2016/"
+    },
+    {
+        "Name": "Steam Siege (STS)",
+        "url": "https://pkmncards.com/set/steam-siege/"
+    },
+    {
+        "Name": "Fates Collide (FCO)",
+        "url": "https://pkmncards.com/set/fates-collide/"
+    },
+    {
+        "Name": "XY Trainer Kit—Suicune (TK9S)",
+        "url": "https://pkmncards.com/set/xy-trainer-kit-suicune/"
+    },
+    {
+        "Name": "XY Trainer Kit—Pikachu Libre (TK9P)",
+        "url": "https://pkmncards.com/set/xy-trainer-kit-pikachu-libre/"
+    },
+    {
+        "Name": "Generations (GEN)",
+        "url": "https://pkmncards.com/set/generations/"
+    },
+    {
+        "Name": "BREAKpoint (BKP)",
+        "url": "https://pkmncards.com/set/breakpoint/"
+    },
+    {
+        "Name": "BREAKthrough (BKT)",
+        "url": "https://pkmncards.com/set/breakthrough/"
+    },
+    {
+        "Name": "Ancient Origins (AOR)",
+        "url": "https://pkmncards.com/set/ancient-origins/"
+    },
+    {
+        "Name": "Roaring Skies (ROS)",
+        "url": "https://pkmncards.com/set/roaring-skies/"
+    },
+    {
+        "Name": "XY Trainer Kit—Latios (TK8O)",
+        "url": "https://pkmncards.com/set/xy-trainer-kit-latios/"
+    },
+    {
+        "Name": "XY Trainer Kit—Latias (TK8A)",
+        "url": "https://pkmncards.com/set/xy-trainer-kit-latias/"
+    },
+    {
+        "Name": "Double Crisis (DCR)",
+        "url": "https://pkmncards.com/set/double-crisis/"
+    },
+    {
+        "Name": "Primal Clash (PRC)",
+        "url": "https://pkmncards.com/set/primal-clash/"
+    },
+    {
+        "Name": "Phantom Forces (PHF)",
+        "url": "https://pkmncards.com/set/phantom-forces/"
+    },
+    {
+        "Name": "XY Trainer Kit—Wigglytuff (TK7B)",
+        "url": "https://pkmncards.com/set/xy-trainer-kit-wigglytuff/"
+    },
+    {
+        "Name": "XY Trainer Kit—Bisharp (TK7A)",
+        "url": "https://pkmncards.com/set/xy-trainer-kit-bisharp/"
+    },
+    {
+        "Name": "Furious Fists (FFI)",
+        "url": "https://pkmncards.com/set/furious-fists/"
+    },
+    {
+        "Name": "Flashfire (FLF)",
+        "url": "https://pkmncards.com/set/flashfire/"
+    },
+    {
+        "Name": "XY Trainer Kit—Sylveon (TK6S)",
+        "url": "https://pkmncards.com/set/xy-trainer-kit-sylveon/"
+    },
+    {
+        "Name": "XY Trainer Kit—Noivern (TK6N)",
+        "url": "https://pkmncards.com/set/xy-trainer-kit-noivern/"
+    },
+    {
+        "Name": "XY (XY)",
+        "url": "https://pkmncards.com/set/xy/"
+    },
+    {
+        "Name": "XY Energy (2013 Unnumbered)",
+        "url": "https://pkmncards.com/set/xy-energy-2013-unnumbered/"
+    },
+    {
+        "Name": "Kalos Starter Set (KSS)",
+        "url": "https://pkmncards.com/set/kalos-starter-set/"
+    },
+    {
+        "Name": "XY Promos (XYP)",
+        "url": "https://pkmncards.com/set/xy-promos/"
+    },
+    {
+        "Name": "Legendary Treasures (LTR)",
+        "url": "https://pkmncards.com/set/legendary-treasures/"
+    },
+    {
+        "Name": "Plasma Blast (PLB)",
+        "url": "https://pkmncards.com/set/plasma-blast/"
+    },
+    {
+        "Name": "Plasma Freeze (PLF)",
+        "url": "https://pkmncards.com/set/plasma-freeze/"
+    },
+    {
+        "Name": "Plasma Storm (PLS)",
+        "url": "https://pkmncards.com/set/plasma-storm/"
+    },
+    {
+        "Name": "Boundaries Crossed (BCR)",
+        "url": "https://pkmncards.com/set/boundaries-crossed/"
+    },
+    {
+        "Name": "Dragon Vault (DRV)",
+        "url": "https://pkmncards.com/set/dragon-vault/"
+    },
+    {
+        "Name": "Dragons Exalted (DRX)",
+        "url": "https://pkmncards.com/set/dragons-exalted/"
+    },
+    {
+        "Name": "McDonald’s Collection 2012 (MCD12)",
+        "url": "https://pkmncards.com/set/mcdonalds-collection-2012/"
+    },
+    {
+        "Name": "Dark Explorers (DEX)",
+        "url": "https://pkmncards.com/set/dark-explorers/"
+    },
+    {
+        "Name": "Next Destinies (NXD)",
+        "url": "https://pkmncards.com/set/next-destinies/"
+    },
+    {
+        "Name": "Noble Victories (NVI)",
+        "url": "https://pkmncards.com/set/noble-victories/"
+    },
+    {
+        "Name": "Black & White Trainer Kit—Zoroark (TK5Z)",
+        "url": "https://pkmncards.com/set/black-white-trainer-kit-zoroark/"
+    },
+    {
+        "Name": "Black & White Trainer Kit—Excadrill (TK5E)",
+        "url": "https://pkmncards.com/set/black-white-trainer-kit-excadrill/"
+    },
+    {
+        "Name": "Emerging Powers (EPO)",
+        "url": "https://pkmncards.com/set/emerging-powers/"
+    },
+    {
+        "Name": "McDonald’s Collection 2011 (MCD11)",
+        "url": "https://pkmncards.com/set/mcdonalds-collection-2011/"
+    },
+    {
+        "Name": "Black & White Energy (2011 Unnumbered)",
+        "url": "https://pkmncards.com/set/black-white-energy-2011-unnumbered/"
+    },
+    {
+        "Name": "Black & White (BLW)",
+        "url": "https://pkmncards.com/set/black-white/"
+    },
+    {
+        "Name": "Black & White Promos (BWP)",
+        "url": "https://pkmncards.com/set/black-white-promos/"
+    },
+    {
+        "Name": "Call of Legends (CL)",
+        "url": "https://pkmncards.com/set/call-of-legends/"
+    },
+    {
+        "Name": "Triumphant (TM)",
+        "url": "https://pkmncards.com/set/triumphant/"
+    },
+    {
+        "Name": "Undaunted (UD)",
+        "url": "https://pkmncards.com/set/undaunted/"
+    },
+    {
+        "Name": "Unleashed (UL)",
+        "url": "https://pkmncards.com/set/unleashed/"
+    },
+    {
+        "Name": "HS Trainer Kit—Raichu (TK4R)",
+        "url": "https://pkmncards.com/set/hs-trainer-kit-raichu/"
+    },
+    {
+        "Name": "HS Trainer Kit—Gyarados (TK4G)",
+        "url": "https://pkmncards.com/set/hs-trainer-kit-gyarados/"
+    },
+    {
+        "Name": "HS Energy (2010 Unnumbered)",
+        "url": "https://pkmncards.com/set/hs-energy-2010-unnumbered/"
+    },
+    {
+        "Name": "HeartGold & SoulSilver (HS)",
+        "url": "https://pkmncards.com/set/heartgold-soulsilver/"
+    },
+    {
+        "Name": "HeartGold & SoulSilver Promos",
+        "url": "https://pkmncards.com/set/heartgold-soulsilver-promos/"
+    },
+    {
+        "Name": "Rumble (RM)",
+        "url": "https://pkmncards.com/set/rumble/"
+    },
+    {
+        "Name": "Arceus (AR)",
+        "url": "https://pkmncards.com/set/arceus/"
+    },
+    {
+        "Name": "Supreme Victors (SV)",
+        "url": "https://pkmncards.com/set/supreme-victors/"
+    },
+    {
+        "Name": "Rising Rivals (RR)",
+        "url": "https://pkmncards.com/set/rising-rivals/"
+    },
+    {
+        "Name": "POP Series 9 (P9)",
+        "url": "https://pkmncards.com/set/pop-series-9/"
+    },
+    {
+        "Name": "Platinum (PL)",
+        "url": "https://pkmncards.com/set/platinum/"
+    },
+    {
+        "Name": "Stormfront (SF)",
+        "url": "https://pkmncards.com/set/stormfront/"
+    },
+    {
+        "Name": "POP Series 8 (P8)",
+        "url": "https://pkmncards.com/set/pop-series-8/"
+    },
+    {
+        "Name": "Legends Awakened (LA)",
+        "url": "https://pkmncards.com/set/legends-awakened/"
+    },
+    {
+        "Name": "Majestic Dawn (MD)",
+        "url": "https://pkmncards.com/set/majestic-dawn/"
+    },
+    {
+        "Name": "POP Series 7 (P7)",
+        "url": "https://pkmncards.com/set/pop-series-7/"
+    },
+    {
+        "Name": "Great Encounters (GE)",
+        "url": "https://pkmncards.com/set/great-encounters/"
+    },
+    {
+        "Name": "Secret Wonders (SW)",
+        "url": "https://pkmncards.com/set/secret-wonders/"
+    },
+    {
+        "Name": "Diamond & Pearl Trainer Kit—Manaphy (TK3M)",
+        "url": "https://pkmncards.com/set/diamond-pearl-trainer-kit-manaphy/"
+    },
+    {
+        "Name": "Diamond & Pearl Trainer Kit—Lucario (TK3L)",
+        "url": "https://pkmncards.com/set/diamond-pearl-trainer-kit-lucario/"
+    },
+    {
+        "Name": "POP Series 6 (P6)",
+        "url": "https://pkmncards.com/set/pop-series-6/"
+    },
+    {
+        "Name": "Mysterious Treasures (MT)",
+        "url": "https://pkmncards.com/set/mysterious-treasures/"
+    },
+    {
+        "Name": "Diamond & Pearl (DP)",
+        "url": "https://pkmncards.com/set/diamond-pearl/"
+    },
+    {
+        "Name": "Diamond & Pearl Promos",
+        "url": "https://pkmncards.com/set/diamond-pearl-promos/"
+    },
+    {
+        "Name": "POP Series 5 (P5)",
+        "url": "https://pkmncards.com/set/pop-series-5/"
+    },
+    {
+        "Name": "Power Keepers (PK)",
+        "url": "https://pkmncards.com/set/power-keepers/"
+    },
+    {
+        "Name": "Dragon Frontiers (DF)",
+        "url": "https://pkmncards.com/set/dragon-frontiers/"
+    },
+    {
+        "Name": "Crystal Guardians (CG)",
+        "url": "https://pkmncards.com/set/crystal-guardians/"
+    },
+    {
+        "Name": "POP Series 4 (P4)",
+        "url": "https://pkmncards.com/set/pop-series-4/"
+    },
+    {
+        "Name": "Holon Phantoms (HP)",
+        "url": "https://pkmncards.com/set/holon-phantoms/"
+    },
+    {
+        "Name": "POP Series 3 (P3)",
+        "url": "https://pkmncards.com/set/pop-series-3/"
+    },
+    {
+        "Name": "EX Trainer Kit—Plusle (TK2P)",
+        "url": "https://pkmncards.com/set/ex-trainer-kit-plusle/"
+    },
+    {
+        "Name": "EX Trainer Kit—Minun (TK2M)",
+        "url": "https://pkmncards.com/set/ex-trainer-kit-minun/"
+    },
+    {
+        "Name": "Legend Maker (LM)",
+        "url": "https://pkmncards.com/set/legend-maker/"
+    },
+    {
+        "Name": "Delta Species (DS)",
+        "url": "https://pkmncards.com/set/delta-species/"
+    },
+    {
+        "Name": "Unseen Forces (UF)",
+        "url": "https://pkmncards.com/set/unseen-forces/"
+    },
+    {
+        "Name": "POP Series 2 (P2)",
+        "url": "https://pkmncards.com/set/pop-series-2/"
+    },
+    {
+        "Name": "Emerald (EM)",
+        "url": "https://pkmncards.com/set/emerald/"
+    },
+    {
+        "Name": "Deoxys (DX)",
+        "url": "https://pkmncards.com/set/deoxys/"
+    },
+    {
+        "Name": "Team Rocket Returns (TR)",
+        "url": "https://pkmncards.com/set/team-rocket-returns/"
+    },
+    {
+        "Name": "POP Series 1 (P1)",
+        "url": "https://pkmncards.com/set/pop-series-1/"
+    },
+    {
+        "Name": "FireRed & LeafGreen (RG)",
+        "url": "https://pkmncards.com/set/firered-leafgreen/"
+    },
+    {
+        "Name": "Hidden Legends (HL)",
+        "url": "https://pkmncards.com/set/hidden-legends/"
+    },
+    {
+        "Name": "EX Trainer Kit—Latios (TK1O)",
+        "url": "https://pkmncards.com/set/ex-trainer-kit-latios/"
+    },
+    {
+        "Name": "EX Trainer Kit—Latias (TK1A)",
+        "url": "https://pkmncards.com/set/ex-trainer-kit-latias/"
+    },
+    {
+        "Name": "Team Magma vs Team Aqua (MA)",
+        "url": "https://pkmncards.com/set/team-magma-vs-team-aqua/"
+    },
+    {
+        "Name": "Dragon (DR)",
+        "url": "https://pkmncards.com/set/dragon/"
+    },
+    {
+        "Name": "Sandstorm (SS)",
+        "url": "https://pkmncards.com/set/sandstorm/"
+    },
+    {
+        "Name": "Ruby & Sapphire (RS)",
+        "url": "https://pkmncards.com/set/ruby-sapphire/"
+    },
+    {
+        "Name": "Nintendo Black Star Promos",
+        "url": "https://pkmncards.com/set/nintendo-black-star-promos/"
+    },
+    {
+        "Name": "Skyridge (SK)",
+        "url": "https://pkmncards.com/set/skyridge/"
+    },
+    {
+        "Name": "Aquapolis (AQ)",
+        "url": "https://pkmncards.com/set/aquapolis/"
+    },
+    {
+        "Name": "Expedition (EX)",
+        "url": "https://pkmncards.com/set/expedition/"
+    },
+    {
+        "Name": "Neo Destiny (N4)",
+        "url": "https://pkmncards.com/set/neo-destiny/"
+    },
+    {
+        "Name": "Neo Revelation (N3)",
+        "url": "https://pkmncards.com/set/neo-revelation/"
+    },
+    {
+        "Name": "Neo Discovery (N2)",
+        "url": "https://pkmncards.com/set/neo-discovery/"
+    },
+    {
+        "Name": "Neo Genesis (N1)",
+        "url": "https://pkmncards.com/set/neo-genesis/"
+    },
+    {
+        "Name": "Gym Challenge (G2)",
+        "url": "https://pkmncards.com/set/gym-challenge/"
+    },
+    {
+        "Name": "Gym Heroes (G1)",
+        "url": "https://pkmncards.com/set/gym-heroes/"
+    },
+    {
+        "Name": "Team Rocket (RO)",
+        "url": "https://pkmncards.com/set/team-rocket/"
+    },
+    {
+        "Name": "Base Set 2 (B2)",
+        "url": "https://pkmncards.com/set/base-set-2/"
+    },
+    {
+        "Name": "Fossil (FO)",
+        "url": "https://pkmncards.com/set/fossil/"
+    },
+    {
+        "Name": "Jungle (JU)",
+        "url": "https://pkmncards.com/set/jungle/"
+    },
+    {
+        "Name": "Base Set (BS)",
+        "url": "https://pkmncards.com/set/base-set/"
+    },
+    {
+        "Name": "POP Series 9 (P9)",
+        "url": "https://pkmncards.com/set/pop-series-9/"
+    },
+    {
+        "Name": "POP Series 8 (P8)",
+        "url": "https://pkmncards.com/set/pop-series-8/"
+    },
+    {
+        "Name": "POP Series 7 (P7)",
+        "url": "https://pkmncards.com/set/pop-series-7/"
+    },
+    {
+        "Name": "POP Series 6 (P6)",
+        "url": "https://pkmncards.com/set/pop-series-6/"
+    },
+    {
+        "Name": "POP Series 5 (P5)",
+        "url": "https://pkmncards.com/set/pop-series-5/"
+    },
+    {
+        "Name": "POP Series 4 (P4)",
+        "url": "https://pkmncards.com/set/pop-series-4/"
+    },
+    {
+        "Name": "POP Series 3 (P3)",
+        "url": "https://pkmncards.com/set/pop-series-3/"
+    },
+    {
+        "Name": "POP Series 2 (P2)",
+        "url": "https://pkmncards.com/set/pop-series-2/"
+    },
+    {
+        "Name": "POP Series 1 (P1)",
+        "url": "https://pkmncards.com/set/pop-series-1/"
+    },
+    {
+        "Name": "Black & White Promos (BWP)",
+        "url": "https://pkmncards.com/set/black-white-promos/"
+    },
+    {
+        "Name": "Diamond & Pearl Promos",
+        "url": "https://pkmncards.com/set/diamond-pearl-promos/"
+    },
+    {
+        "Name": "HeartGold & SoulSilver Promos",
+        "url": "https://pkmncards.com/set/heartgold-soulsilver-promos/"
+    },
+    {
+        "Name": "Nintendo Black Star Promos",
+        "url": "https://pkmncards.com/set/nintendo-black-star-promos/"
+    },
+    {
+        "Name": "Pokémon Futsal Promos 2020 (FUT20)",
+        "url": "https://pkmncards.com/set/pokemon-futsal-promos-2020/"
+    },
+    {
+        "Name": "Scarlet & Violet Promos (SVP)",
+        "url": "https://pkmncards.com/set/scarlet-violet-promos/"
+    },
+    {
+        "Name": "Sun & Moon Promos (SMP)",
+        "url": "https://pkmncards.com/set/sun-moon-promos/"
+    },
+    {
+        "Name": "Sword & Shield Promos",
+        "url": "https://pkmncards.com/set/sword-shield-promos/"
+    },
+    {
+        "Name": "Wizards Black Star Promos",
+        "url": "https://pkmncards.com/set/wizards-black-star-promos/"
+    },
+    {
+        "Name": "XY Promos (XYP)",
+        "url": "https://pkmncards.com/set/xy-promos/"
+    },
+    {
+        "Name": "Sun & Moon Trainer Kit—Lycanroc (TK10L)",
+        "url": "https://pkmncards.com/set/sun-moon-trainer-kit-lycanroc/"
+    },
+    {
+        "Name": "Sun & Moon Trainer Kit—Alolan Raichu (TK10A)",
+        "url": "https://pkmncards.com/set/sun-moon-trainer-kit-alolan-raichu/"
+    },
+    {
+        "Name": "XY Trainer Kit—Suicune (TK9S)",
+        "url": "https://pkmncards.com/set/xy-trainer-kit-suicune/"
+    },
+    {
+        "Name": "XY Trainer Kit—Pikachu Libre (TK9P)",
+        "url": "https://pkmncards.com/set/xy-trainer-kit-pikachu-libre/"
+    },
+    {
+        "Name": "XY Trainer Kit—Latios (TK8O)",
+        "url": "https://pkmncards.com/set/xy-trainer-kit-latios/"
+    },
+    {
+        "Name": "XY Trainer Kit—Latias (TK8A)",
+        "url": "https://pkmncards.com/set/xy-trainer-kit-latias/"
+    },
+    {
+        "Name": "XY Trainer Kit—Wigglytuff (TK7B)",
+        "url": "https://pkmncards.com/set/xy-trainer-kit-wigglytuff/"
+    },
+    {
+        "Name": "XY Trainer Kit—Bisharp (TK7A)",
+        "url": "https://pkmncards.com/set/xy-trainer-kit-bisharp/"
+    },
+    {
+        "Name": "XY Trainer Kit—Sylveon (TK6S)",
+        "url": "https://pkmncards.com/set/xy-trainer-kit-sylveon/"
+    },
+    {
+        "Name": "XY Trainer Kit—Noivern (TK6N)",
+        "url": "https://pkmncards.com/set/xy-trainer-kit-noivern/"
+    },
+    {
+        "Name": "Black & White Trainer Kit—Zoroark (TK5Z)",
+        "url": "https://pkmncards.com/set/black-white-trainer-kit-zoroark/"
+    },
+    {
+        "Name": "Black & White Trainer Kit—Excadrill (TK5E)",
+        "url": "https://pkmncards.com/set/black-white-trainer-kit-excadrill/"
+    },
+    {
+        "Name": "HS Trainer Kit—Raichu (TK4R)",
+        "url": "https://pkmncards.com/set/hs-trainer-kit-raichu/"
+    },
+    {
+        "Name": "HS Trainer Kit—Gyarados (TK4G)",
+        "url": "https://pkmncards.com/set/hs-trainer-kit-gyarados/"
+    },
+    {
+        "Name": "Diamond & Pearl Trainer Kit—Manaphy (TK3M)",
+        "url": "https://pkmncards.com/set/diamond-pearl-trainer-kit-manaphy/"
+    },
+    {
+        "Name": "Diamond & Pearl Trainer Kit—Lucario (TK3L)",
+        "url": "https://pkmncards.com/set/diamond-pearl-trainer-kit-lucario/"
+    },
+    {
+        "Name": "EX Trainer Kit—Plusle (TK2P)",
+        "url": "https://pkmncards.com/set/ex-trainer-kit-plusle/"
+    },
+    {
+        "Name": "EX Trainer Kit—Minun (TK2M)",
+        "url": "https://pkmncards.com/set/ex-trainer-kit-minun/"
+    },
+    {
+        "Name": "EX Trainer Kit—Latios (TK1O)",
+        "url": "https://pkmncards.com/set/ex-trainer-kit-latios/"
+    },
+    {
+        "Name": "EX Trainer Kit—Latias (TK1A)",
+        "url": "https://pkmncards.com/set/ex-trainer-kit-latias/"
+    },
+    {
+        "Name": "McDonald’s Collection 2022 (MCD22)",
+        "url": "https://pkmncards.com/set/mcdonalds-collection-2022/"
+    },
+    {
+        "Name": "McDonald’s Collection 2021 (MCD21)",
+        "url": "https://pkmncards.com/set/mcdonalds-collection-2021/"
+    },
+    {
+        "Name": "McDonald’s Collection 2019 (MCD19)",
+        "url": "https://pkmncards.com/set/mcdonalds-collection-2019/"
+    },
+    {
+        "Name": "McDonald’s Collection 2016 (MCD16)",
+        "url": "https://pkmncards.com/set/mcdonalds-collection-2016/"
+    },
+    {
+        "Name": "McDonald’s Collection 2012 (MCD12)",
+        "url": "https://pkmncards.com/set/mcdonalds-collection-2012/"
+    },
+    {
+        "Name": "McDonald’s Collection 2011 (MCD11)",
+        "url": "https://pkmncards.com/set/mcdonalds-collection-2011/"
+    },
+    {
+        "Name": "World Collection",
+        "url": "https://pkmncards.com/set/world-collection/"
+    },
+    {
+        "Name": "Rumble (RM)",
+        "url": "https://pkmncards.com/set/rumble/"
+    },
+    {
+        "Name": "Box Topper",
+        "url": "https://pkmncards.com/set/box-topper/"
+    },
+    {
+        "Name": "Legendary Collection (LC)",
+        "url": "https://pkmncards.com/set/legendary-collection/"
+    },
+    {
+        "Name": "Southern Islands (SI)",
+        "url": "https://pkmncards.com/set/southern-islands/"
+    },
+    {
+        "Name": "Best of Game",
+        "url": "https://pkmncards.com/set/best-of-game/"
+    },
+    {
+        "Name": "Miscellaneous",
+        "url": "https://pkmncards.com/set/miscellaneous/"
+    },
+    {
+        "Name": "Victory Medals",
+        "url": "https://pkmncards.com/set/victory-medals/"
+    },
+    {
+        "Name": "Pokémon Trading Card Game Classic—Venusaur (CLV)",
+        "url": "https://pkmncards.com/set/pokemon-trading-card-game-classic-venusaur/"
+    },
+    {
+        "Name": "Pokémon Trading Card Game Classic—Charizard (CLC)",
+        "url": "https://pkmncards.com/set/pokemon-trading-card-game-classic-charizard/"
+    },
+    {
+        "Name": "Pokémon Trading Card Game Classic—Blastoise (CLB)",
+        "url": "https://pkmncards.com/set/pokemon-trading-card-game-classic-blastoise/"
+    }
+]

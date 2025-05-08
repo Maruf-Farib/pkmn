@@ -1,0 +1,4627 @@
+[
+    {
+        "url": "https://pkmncards.com/card/ledyba-stellar-crown-scr-002/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_002_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_002_std.png",
+        "details": {
+            "serial": "002",
+            "Name": "Ledyba",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_002_std.png",
+            "Pokemon": "Ledyba",
+            "Pokemon Link": "https://pkmncards.com/pokemon/ledyba/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Grass",
+            "Color Link": "https://pkmncards.com/color/grass/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Common",
+            "Rarity Link": "https://pkmncards.com/rarity/common/",
+            "Evolution": [
+                "Ledian"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "60 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/ledian-stellar-crown-scr-003/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_003_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_003_std.png",
+        "details": {
+            "serial": "003",
+            "Name": "Ledian",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_003_std.png",
+            "Pokemon": "Ledian",
+            "Pokemon Link": "https://pkmncards.com/pokemon/ledian/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Grass",
+            "Color Link": "https://pkmncards.com/color/grass/",
+            "Stage": "Stage 1",
+            "Stage Link": "https://pkmncards.com/stage/stage-1/",
+            "Rarity": "Rare",
+            "Rarity Link": "https://pkmncards.com/rarity/rare/",
+            "Evolution": [
+                "Ledyba"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "90 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/mow-rotom-stellar-crown-scr-008/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_008_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_008_std.png",
+        "details": {
+            "serial": "008",
+            "Name": "Mow Rotom",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_008_std.png",
+            "Pokemon": "Rotom",
+            "Pokemon Link": "https://pkmncards.com/pokemon/rotom/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Grass",
+            "Color Link": "https://pkmncards.com/color/grass/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Common",
+            "Rarity Link": "https://pkmncards.com/rarity/common/",
+            "Evolution": [],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "90 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/celebi-stellar-crown-scr-004/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_004_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_004_std.png",
+        "details": {
+            "serial": "004",
+            "Name": "Celebi",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_004_std.png",
+            "Pokemon": "Celebi",
+            "Pokemon Link": "https://pkmncards.com/pokemon/celebi/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Grass",
+            "Color Link": "https://pkmncards.com/color/grass/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Uncommon",
+            "Rarity Link": "https://pkmncards.com/rarity/uncommon/",
+            "Evolution": [],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "80 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/cradily-stellar-crown-scr-006/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_006_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_006_std.png",
+        "details": {
+            "serial": "006",
+            "Name": "Cradily",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_006_std.png",
+            "Pokemon": "Cradily",
+            "Pokemon Link": "https://pkmncards.com/pokemon/cradily/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Grass",
+            "Color Link": "https://pkmncards.com/color/grass/",
+            "Stage": "Stage 2",
+            "Stage Link": "https://pkmncards.com/stage/stage-2/",
+            "Rarity": "Rare",
+            "Rarity Link": "https://pkmncards.com/rarity/rare/",
+            "Evolution": [
+                "Lileep"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "150 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/carnivine-stellar-crown-scr-007/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_007_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_007_std.png",
+        "details": {
+            "serial": "007",
+            "Name": "Carnivine",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_007_std.png",
+            "Pokemon": "Carnivine",
+            "Pokemon Link": "https://pkmncards.com/pokemon/carnivine/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Grass",
+            "Color Link": "https://pkmncards.com/color/grass/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Common",
+            "Rarity Link": "https://pkmncards.com/rarity/common/",
+            "Evolution": [],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "110 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/venusaur-ex-stellar-crown-scr-001/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_001_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_001_std.png",
+        "details": {
+            "serial": "001",
+            "Name": "Venusaur ex",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_001_std.png",
+            "Pokemon": "Venusaur",
+            "Pokemon Link": "https://pkmncards.com/pokemon/venusaur/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Grass",
+            "Color Link": "https://pkmncards.com/color/grass/",
+            "Stage": "Stage 2",
+            "Stage Link": "https://pkmncards.com/stage/stage-2/",
+            "Rarity": "Double Rare",
+            "Rarity Link": "https://pkmncards.com/rarity/double-rare/",
+            "Evolution": [
+                "Ivysaur"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "340 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/lileep-stellar-crown-scr-005/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_005_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_005_std.png",
+        "details": {
+            "serial": "005",
+            "Name": "Lileep",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_005_std.png",
+            "Pokemon": "Lileep",
+            "Pokemon Link": "https://pkmncards.com/pokemon/lileep/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Grass",
+            "Color Link": "https://pkmncards.com/color/grass/",
+            "Stage": "Stage 1",
+            "Stage Link": "https://pkmncards.com/stage/stage-1/",
+            "Rarity": "Common",
+            "Rarity Link": "https://pkmncards.com/rarity/common/",
+            "Evolution": [
+                "Antique Root Fossil",
+                "Cradily",
+                "Cradily ex"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "100 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/gossifleur-stellar-crown-scr-010/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_010_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_010_std.png",
+        "details": {
+            "serial": "010",
+            "Name": "Gossifleur",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_010_std.png",
+            "Pokemon": "Gossifleur",
+            "Pokemon Link": "https://pkmncards.com/pokemon/gossifleur/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Grass",
+            "Color Link": "https://pkmncards.com/color/grass/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Common",
+            "Rarity Link": "https://pkmncards.com/rarity/common/",
+            "Evolution": [
+                "Eldegoss"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "60 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/grubbin-stellar-crown-scr-009/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_009_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_009_std.png",
+        "details": {
+            "serial": "009",
+            "Name": "Grubbin",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_009_std.png",
+            "Pokemon": "Grubbin",
+            "Pokemon Link": "https://pkmncards.com/pokemon/grubbin/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Grass",
+            "Color Link": "https://pkmncards.com/color/grass/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Common",
+            "Rarity Link": "https://pkmncards.com/rarity/common/",
+            "Evolution": [
+                "Charjabug"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "70 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/eldegoss-stellar-crown-scr-011/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_011_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_011_std.png",
+        "details": {
+            "serial": "011",
+            "Name": "Eldegoss",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_011_std.png",
+            "Pokemon": "Eldegoss",
+            "Pokemon Link": "https://pkmncards.com/pokemon/eldegoss/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Grass",
+            "Color Link": "https://pkmncards.com/color/grass/",
+            "Stage": "Stage 1",
+            "Stage Link": "https://pkmncards.com/stage/stage-1/",
+            "Rarity": "Uncommon",
+            "Rarity Link": "https://pkmncards.com/rarity/uncommon/",
+            "Evolution": [
+                "Gossifleur"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "90 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/applin-stellar-crown-scr-012/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_012_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_012_std.png",
+        "details": {
+            "serial": "012",
+            "Name": "Applin",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_012_std.png",
+            "Pokemon": "Applin",
+            "Pokemon Link": "https://pkmncards.com/pokemon/applin/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Grass",
+            "Color Link": "https://pkmncards.com/color/grass/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Common",
+            "Rarity Link": "https://pkmncards.com/rarity/common/",
+            "Evolution": [
+                "Dipplin"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "40 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/dipplin-stellar-crown-scr-013/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_013_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_013_std.png",
+        "details": {
+            "serial": "013",
+            "Name": "Dipplin",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_013_std.png",
+            "Pokemon": "Dipplin",
+            "Pokemon Link": "https://pkmncards.com/pokemon/dipplin/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Grass",
+            "Color Link": "https://pkmncards.com/color/grass/",
+            "Stage": "Stage 1",
+            "Stage Link": "https://pkmncards.com/stage/stage-1/",
+            "Rarity": "Common",
+            "Rarity Link": "https://pkmncards.com/rarity/common/",
+            "Evolution": [
+                "Applin",
+                "Hydrapple ex"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "90 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/hydrapple-ex-stellar-crown-scr-014/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_014_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_014_std.png",
+        "details": {
+            "serial": "014",
+            "Name": "Hydrapple ex",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_014_std.png",
+            "Pokemon": "Hydrapple",
+            "Pokemon Link": "https://pkmncards.com/pokemon/hydrapple/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Grass",
+            "Color Link": "https://pkmncards.com/color/grass/",
+            "Stage": "Stage 2",
+            "Stage Link": "https://pkmncards.com/stage/stage-2/",
+            "Rarity": "Double Rare",
+            "Rarity Link": "https://pkmncards.com/rarity/double-rare/",
+            "Evolution": [
+                "Dipplin"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "330 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/lokix-stellar-crown-scr-016/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_016_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_016_std.png",
+        "details": {
+            "serial": "016",
+            "Name": "Lokix",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_016_std.png",
+            "Pokemon": "Lokix",
+            "Pokemon Link": "https://pkmncards.com/pokemon/lokix/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Grass",
+            "Color Link": "https://pkmncards.com/color/grass/",
+            "Stage": "Stage 1",
+            "Stage Link": "https://pkmncards.com/stage/stage-1/",
+            "Rarity": "Common",
+            "Rarity Link": "https://pkmncards.com/rarity/common/",
+            "Evolution": [
+                "Nymble"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "110 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/nymble-stellar-crown-scr-015/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_015_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_015_std.png",
+        "details": {
+            "serial": "015",
+            "Name": "Nymble",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_015_std.png",
+            "Pokemon": "Nymble",
+            "Pokemon Link": "https://pkmncards.com/pokemon/nymble/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Grass",
+            "Color Link": "https://pkmncards.com/color/grass/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Common",
+            "Rarity Link": "https://pkmncards.com/rarity/common/",
+            "Evolution": [
+                "Lokix"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "50 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/toedscruel-stellar-crown-scr-018/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_018_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_018_std.png",
+        "details": {
+            "serial": "018",
+            "Name": "Toedscruel",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_018_std.png",
+            "Pokemon": "Toedscruel",
+            "Pokemon Link": "https://pkmncards.com/pokemon/toedscruel/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Grass",
+            "Color Link": "https://pkmncards.com/color/grass/",
+            "Stage": "Stage 1",
+            "Stage Link": "https://pkmncards.com/stage/stage-1/",
+            "Rarity": "Uncommon",
+            "Rarity Link": "https://pkmncards.com/rarity/uncommon/",
+            "Evolution": [
+                "Toedscool"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "140 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/toedscool-stellar-crown-scr-017/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_017_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_017_std.png",
+        "details": {
+            "serial": "017",
+            "Name": "Toedscool",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_017_std.png",
+            "Pokemon": "Toedscool",
+            "Pokemon Link": "https://pkmncards.com/pokemon/toedscool/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Grass",
+            "Color Link": "https://pkmncards.com/color/grass/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Common",
+            "Rarity Link": "https://pkmncards.com/rarity/common/",
+            "Evolution": [
+                "Toedscruel"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "60 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/ponyta-stellar-crown-scr-019/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_019_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_019_std.png",
+        "details": {
+            "serial": "019",
+            "Name": "Ponyta",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_019_std.png",
+            "Pokemon": "Ponyta",
+            "Pokemon Link": "https://pkmncards.com/pokemon/ponyta/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Fire",
+            "Color Link": "https://pkmncards.com/color/fire/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Common",
+            "Rarity Link": "https://pkmncards.com/rarity/common/",
+            "Evolution": [
+                "Rapidash",
+                "Dark Rapidash"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "70 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/rapidash-stellar-crown-scr-020/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_020_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_020_std.png",
+        "details": {
+            "serial": "020",
+            "Name": "Rapidash",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_020_std.png",
+            "Pokemon": "Rapidash",
+            "Pokemon Link": "https://pkmncards.com/pokemon/rapidash/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Fire",
+            "Color Link": "https://pkmncards.com/color/fire/",
+            "Stage": "Stage 1",
+            "Stage Link": "https://pkmncards.com/stage/stage-1/",
+            "Rarity": "Uncommon",
+            "Rarity Link": "https://pkmncards.com/rarity/uncommon/",
+            "Evolution": [
+                "Ponyta"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "120 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/pansear-stellar-crown-scr-021/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_021_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_021_std.png",
+        "details": {
+            "serial": "021",
+            "Name": "Pansear",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_021_std.png",
+            "Pokemon": "Pansear",
+            "Pokemon Link": "https://pkmncards.com/pokemon/pansear/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Fire",
+            "Color Link": "https://pkmncards.com/color/fire/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Common",
+            "Rarity Link": "https://pkmncards.com/rarity/common/",
+            "Evolution": [],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "70 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/reshiram-stellar-crown-scr-022/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_022_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_022_std.png",
+        "details": {
+            "serial": "022",
+            "Name": "Reshiram",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_022_std.png",
+            "Pokemon": "Reshiram",
+            "Pokemon Link": "https://pkmncards.com/pokemon/reshiram/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Fire",
+            "Color Link": "https://pkmncards.com/color/fire/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Uncommon",
+            "Rarity Link": "https://pkmncards.com/rarity/uncommon/",
+            "Evolution": [],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "130 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/salazzle-stellar-crown-scr-024/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_024_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_024_std.png",
+        "details": {
+            "serial": "024",
+            "Name": "Salazzle",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_024_std.png",
+            "Pokemon": "Salazzle",
+            "Pokemon Link": "https://pkmncards.com/pokemon/salazzle/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Fire",
+            "Color Link": "https://pkmncards.com/color/fire/",
+            "Stage": "Stage 1",
+            "Stage Link": "https://pkmncards.com/stage/stage-1/",
+            "Rarity": "Uncommon",
+            "Rarity Link": "https://pkmncards.com/rarity/uncommon/",
+            "Evolution": [
+                "Salandit"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "120 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/salandit-stellar-crown-scr-023/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_023_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_023_std.png",
+        "details": {
+            "serial": "023",
+            "Name": "Salandit",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_023_std.png",
+            "Pokemon": "Salandit",
+            "Pokemon Link": "https://pkmncards.com/pokemon/salandit/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Fire",
+            "Color Link": "https://pkmncards.com/color/fire/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Common",
+            "Rarity Link": "https://pkmncards.com/rarity/common/",
+            "Evolution": [
+                "Salazzle",
+                "Salazzle-GX"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "70 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/turtonator-stellar-crown-scr-025/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_025_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_025_std.png",
+        "details": {
+            "serial": "025",
+            "Name": "Turtonator",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_025_std.png",
+            "Pokemon": "Turtonator",
+            "Pokemon Link": "https://pkmncards.com/pokemon/turtonator/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Fire",
+            "Color Link": "https://pkmncards.com/color/fire/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Common",
+            "Rarity Link": "https://pkmncards.com/rarity/common/",
+            "Evolution": [],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "130 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/raboot-stellar-crown-scr-027/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_027_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_027_std.png",
+        "details": {
+            "serial": "027",
+            "Name": "Raboot",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_027_std.png",
+            "Pokemon": "Raboot",
+            "Pokemon Link": "https://pkmncards.com/pokemon/raboot/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Fire",
+            "Color Link": "https://pkmncards.com/color/fire/",
+            "Stage": "Stage 1",
+            "Stage Link": "https://pkmncards.com/stage/stage-1/",
+            "Rarity": "Common",
+            "Rarity Link": "https://pkmncards.com/rarity/common/",
+            "Evolution": [
+                "Scorbunny",
+                "Cinderace",
+                "Cinderace ex"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "90 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/scorbunny-stellar-crown-scr-026/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_026_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_026_std.png",
+        "details": {
+            "serial": "026",
+            "Name": "Scorbunny",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_026_std.png",
+            "Pokemon": "Scorbunny",
+            "Pokemon Link": "https://pkmncards.com/pokemon/scorbunny/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Fire",
+            "Color Link": "https://pkmncards.com/color/fire/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Common",
+            "Rarity Link": "https://pkmncards.com/rarity/common/",
+            "Evolution": [
+                "Raboot"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "70 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/charcadet-stellar-crown-scr-029/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_029_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_029_std.png",
+        "details": {
+            "serial": "029",
+            "Name": "Charcadet",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_029_std.png",
+            "Pokemon": "Charcadet",
+            "Pokemon Link": "https://pkmncards.com/pokemon/charcadet/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Fire",
+            "Color Link": "https://pkmncards.com/color/fire/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Common",
+            "Rarity Link": "https://pkmncards.com/rarity/common/",
+            "Evolution": [],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "70 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/cinderace-ex-stellar-crown-scr-028/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_028_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_028_std.png",
+        "details": {
+            "serial": "028",
+            "Name": "Cinderace ex",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_028_std.png",
+            "Pokemon": "Cinderace",
+            "Pokemon Link": "https://pkmncards.com/pokemon/cinderace/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Fire",
+            "Color Link": "https://pkmncards.com/color/fire/",
+            "Stage": "Stage 2",
+            "Stage Link": "https://pkmncards.com/stage/stage-2/",
+            "Rarity": "Double Rare",
+            "Rarity Link": "https://pkmncards.com/rarity/double-rare/",
+            "Evolution": [
+                "Raboot"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "320 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/blastoise-ex-stellar-crown-scr-030/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_030_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_030_std.png",
+        "details": {
+            "serial": "030",
+            "Name": "Blastoise ex",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_030_std.png",
+            "Pokemon": "Blastoise",
+            "Pokemon Link": "https://pkmncards.com/pokemon/blastoise/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Water",
+            "Color Link": "https://pkmncards.com/color/water/",
+            "Stage": "Stage 2",
+            "Stage Link": "https://pkmncards.com/stage/stage-2/",
+            "Rarity": "Double Rare",
+            "Rarity Link": "https://pkmncards.com/rarity/double-rare/",
+            "Evolution": [
+                "Wartortle"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "330 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/lapras-ex-stellar-crown-scr-032/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_032_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_032_std.png",
+        "details": {
+            "serial": "032",
+            "Name": "Lapras ex",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_032_std.png",
+            "Pokemon": "Lapras",
+            "Pokemon Link": "https://pkmncards.com/pokemon/lapras/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Water",
+            "Color Link": "https://pkmncards.com/color/water/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Double Rare",
+            "Rarity Link": "https://pkmncards.com/rarity/double-rare/",
+            "Evolution": [],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "220 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/lapras-stellar-crown-scr-031/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_031_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_031_std.png",
+        "details": {
+            "serial": "031",
+            "Name": "Lapras",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_031_std.png",
+            "Pokemon": "Lapras",
+            "Pokemon Link": "https://pkmncards.com/pokemon/lapras/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Water",
+            "Color Link": "https://pkmncards.com/color/water/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Uncommon",
+            "Rarity Link": "https://pkmncards.com/rarity/uncommon/",
+            "Evolution": [],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "130 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/marill-stellar-crown-scr-033/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_033_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_033_std.png",
+        "details": {
+            "serial": "033",
+            "Name": "Marill",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_033_std.png",
+            "Pokemon": "Marill",
+            "Pokemon Link": "https://pkmncards.com/pokemon/marill/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Water",
+            "Color Link": "https://pkmncards.com/color/water/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Common",
+            "Rarity Link": "https://pkmncards.com/rarity/common/",
+            "Evolution": [
+                "Azumarill"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "70 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/azumarill-stellar-crown-scr-034/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_034_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_034_std.png",
+        "details": {
+            "serial": "034",
+            "Name": "Azumarill",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_034_std.png",
+            "Pokemon": "Azumarill",
+            "Pokemon Link": "https://pkmncards.com/pokemon/azumarill/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Water",
+            "Color Link": "https://pkmncards.com/color/water/",
+            "Stage": "Stage 1",
+            "Stage Link": "https://pkmncards.com/stage/stage-1/",
+            "Rarity": "Uncommon",
+            "Rarity Link": "https://pkmncards.com/rarity/uncommon/",
+            "Evolution": [
+                "Marill"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "120 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/tirtouga-stellar-crown-scr-037/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_037_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_037_std.png",
+        "details": {
+            "serial": "037",
+            "Name": "Tirtouga",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_037_std.png",
+            "Pokemon": "Tirtouga",
+            "Pokemon Link": "https://pkmncards.com/pokemon/tirtouga/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Water",
+            "Color Link": "https://pkmncards.com/color/water/",
+            "Stage": "Stage 1",
+            "Stage Link": "https://pkmncards.com/stage/stage-1/",
+            "Rarity": "Common",
+            "Rarity Link": "https://pkmncards.com/rarity/common/",
+            "Evolution": [
+                "Antique Cover Fossil",
+                "Carracosta",
+                "Carracosta-GX"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "100 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/finneon-stellar-crown-scr-035/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_035_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_035_std.png",
+        "details": {
+            "serial": "035",
+            "Name": "Finneon",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_035_std.png",
+            "Pokemon": "Finneon",
+            "Pokemon Link": "https://pkmncards.com/pokemon/finneon/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Water",
+            "Color Link": "https://pkmncards.com/color/water/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Common",
+            "Rarity Link": "https://pkmncards.com/rarity/common/",
+            "Evolution": [
+                "Lumineon"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "50 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/lumineon-stellar-crown-scr-036/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_036_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_036_std.png",
+        "details": {
+            "serial": "036",
+            "Name": "Lumineon",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_036_std.png",
+            "Pokemon": "Lumineon",
+            "Pokemon Link": "https://pkmncards.com/pokemon/lumineon/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Water",
+            "Color Link": "https://pkmncards.com/color/water/",
+            "Stage": "Stage 1",
+            "Stage Link": "https://pkmncards.com/stage/stage-1/",
+            "Rarity": "Uncommon",
+            "Rarity Link": "https://pkmncards.com/rarity/uncommon/",
+            "Evolution": [
+                "Finneon"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "110 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/carracosta-stellar-crown-scr-038/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_038_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_038_std.png",
+        "details": {
+            "serial": "038",
+            "Name": "Carracosta",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_038_std.png",
+            "Pokemon": "Carracosta",
+            "Pokemon Link": "https://pkmncards.com/pokemon/carracosta/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Water",
+            "Color Link": "https://pkmncards.com/color/water/",
+            "Stage": "Stage 2",
+            "Stage Link": "https://pkmncards.com/stage/stage-2/",
+            "Rarity": "Rare",
+            "Rarity Link": "https://pkmncards.com/rarity/rare/",
+            "Evolution": [
+                "Tirtouga"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "160 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/froakie-stellar-crown-scr-039/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_039_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_039_std.png",
+        "details": {
+            "serial": "039",
+            "Name": "Froakie",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_039_std.png",
+            "Pokemon": "Froakie",
+            "Pokemon Link": "https://pkmncards.com/pokemon/froakie/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Water",
+            "Color Link": "https://pkmncards.com/color/water/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Common",
+            "Rarity Link": "https://pkmncards.com/rarity/common/",
+            "Evolution": [
+                "Frogadier"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "60 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/frogadier-stellar-crown-scr-040/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_040_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_040_std.png",
+        "details": {
+            "serial": "040",
+            "Name": "Frogadier",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_040_std.png",
+            "Pokemon": "Frogadier",
+            "Pokemon Link": "https://pkmncards.com/pokemon/frogadier/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Water",
+            "Color Link": "https://pkmncards.com/color/water/",
+            "Stage": "Stage 1",
+            "Stage Link": "https://pkmncards.com/stage/stage-1/",
+            "Rarity": "Uncommon",
+            "Rarity Link": "https://pkmncards.com/rarity/uncommon/",
+            "Evolution": [
+                "Froakie",
+                "Greninja ex"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "90 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/greninja-ex-stellar-crown-scr-041/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_041_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_041_std.png",
+        "details": {
+            "serial": "041",
+            "Name": "Greninja ex",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_041_std.png",
+            "Pokemon": "Greninja",
+            "Pokemon Link": "https://pkmncards.com/pokemon/greninja/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Water",
+            "Color Link": "https://pkmncards.com/color/water/",
+            "Stage": "Stage 2",
+            "Stage Link": "https://pkmncards.com/stage/stage-2/",
+            "Rarity": "Double Rare",
+            "Rarity Link": "https://pkmncards.com/rarity/double-rare/",
+            "Evolution": [
+                "Frogadier"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "300 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/chewtle-stellar-crown-scr-043/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_043_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_043_std.png",
+        "details": {
+            "serial": "043",
+            "Name": "Chewtle",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_043_std.png",
+            "Pokemon": "Chewtle",
+            "Pokemon Link": "https://pkmncards.com/pokemon/chewtle/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Water",
+            "Color Link": "https://pkmncards.com/color/water/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Common",
+            "Rarity Link": "https://pkmncards.com/rarity/common/",
+            "Evolution": [
+                "Drednaw"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "80 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/drednaw-stellar-crown-scr-044/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_044_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_044_std.png",
+        "details": {
+            "serial": "044",
+            "Name": "Drednaw",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_044_std.png",
+            "Pokemon": "Drednaw",
+            "Pokemon Link": "https://pkmncards.com/pokemon/drednaw/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Water",
+            "Color Link": "https://pkmncards.com/color/water/",
+            "Stage": "Stage 1",
+            "Stage Link": "https://pkmncards.com/stage/stage-1/",
+            "Rarity": "Rare",
+            "Rarity Link": "https://pkmncards.com/rarity/rare/",
+            "Evolution": [
+                "Chewtle"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "140 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/crabominable-stellar-crown-scr-042/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_042_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_042_std.png",
+        "details": {
+            "serial": "042",
+            "Name": "Crabominable",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_042_std.png",
+            "Pokemon": "Crabominable",
+            "Pokemon Link": "https://pkmncards.com/pokemon/crabominable/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Water",
+            "Color Link": "https://pkmncards.com/color/water/",
+            "Stage": "Stage 1",
+            "Stage Link": "https://pkmncards.com/stage/stage-1/",
+            "Rarity": "Uncommon",
+            "Rarity Link": "https://pkmncards.com/rarity/uncommon/",
+            "Evolution": [
+                "Crabrawler"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "160 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/veluza-stellar-crown-scr-045/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_045_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_045_std.png",
+        "details": {
+            "serial": "045",
+            "Name": "Veluza",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_045_std.png",
+            "Pokemon": "Veluza",
+            "Pokemon Link": "https://pkmncards.com/pokemon/veluza/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Water",
+            "Color Link": "https://pkmncards.com/color/water/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Uncommon",
+            "Rarity Link": "https://pkmncards.com/rarity/uncommon/",
+            "Evolution": [],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "130 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/electabuzz-stellar-crown-scr-046/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_046_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_046_std.png",
+        "details": {
+            "serial": "046",
+            "Name": "Electabuzz",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_046_std.png",
+            "Pokemon": "Electabuzz",
+            "Pokemon Link": "https://pkmncards.com/pokemon/electabuzz/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Lightning",
+            "Color Link": "https://pkmncards.com/color/lightning/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Common",
+            "Rarity Link": "https://pkmncards.com/rarity/common/",
+            "Evolution": [
+                "Electivire"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "90 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/electivire-stellar-crown-scr-047/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_047_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_047_std.png",
+        "details": {
+            "serial": "047",
+            "Name": "Electivire",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_047_std.png",
+            "Pokemon": "Electivire",
+            "Pokemon Link": "https://pkmncards.com/pokemon/electivire/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Lightning",
+            "Color Link": "https://pkmncards.com/color/lightning/",
+            "Stage": "Stage 1",
+            "Stage Link": "https://pkmncards.com/stage/stage-1/",
+            "Rarity": "Uncommon",
+            "Rarity Link": "https://pkmncards.com/rarity/uncommon/",
+            "Evolution": [
+                "Electabuzz"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "150 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/chinchou-stellar-crown-scr-048/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_048_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_048_std.png",
+        "details": {
+            "serial": "048",
+            "Name": "Chinchou",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_048_std.png",
+            "Pokemon": "Chinchou",
+            "Pokemon Link": "https://pkmncards.com/pokemon/chinchou/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Lightning",
+            "Color Link": "https://pkmncards.com/color/lightning/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Common",
+            "Rarity Link": "https://pkmncards.com/rarity/common/",
+            "Evolution": [
+                "Lanturn"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "70 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/lanturn-stellar-crown-scr-049/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_049_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_049_std.png",
+        "details": {
+            "serial": "049",
+            "Name": "Lanturn",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_049_std.png",
+            "Pokemon": "Lanturn",
+            "Pokemon Link": "https://pkmncards.com/pokemon/lanturn/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Lightning",
+            "Color Link": "https://pkmncards.com/color/lightning/",
+            "Stage": "Stage 1",
+            "Stage Link": "https://pkmncards.com/stage/stage-1/",
+            "Rarity": "Uncommon",
+            "Rarity Link": "https://pkmncards.com/rarity/uncommon/",
+            "Evolution": [
+                "Chinchou"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "120 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/galvantula-ex-stellar-crown-scr-051/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_051_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_051_std.png",
+        "details": {
+            "serial": "051",
+            "Name": "Galvantula ex",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_051_std.png",
+            "Pokemon": "Galvantula",
+            "Pokemon Link": "https://pkmncards.com/pokemon/galvantula/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Lightning",
+            "Color Link": "https://pkmncards.com/color/lightning/",
+            "Stage": "Stage 1",
+            "Stage Link": "https://pkmncards.com/stage/stage-1/",
+            "Rarity": "Double Rare",
+            "Rarity Link": "https://pkmncards.com/rarity/double-rare/",
+            "Evolution": [
+                "Joltik"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "260 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/charjabug-stellar-crown-scr-052/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_052_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_052_std.png",
+        "details": {
+            "serial": "052",
+            "Name": "Charjabug",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_052_std.png",
+            "Pokemon": "Charjabug",
+            "Pokemon Link": "https://pkmncards.com/pokemon/charjabug/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Lightning",
+            "Color Link": "https://pkmncards.com/color/lightning/",
+            "Stage": "Stage 1",
+            "Stage Link": "https://pkmncards.com/stage/stage-1/",
+            "Rarity": "Common",
+            "Rarity Link": "https://pkmncards.com/rarity/common/",
+            "Evolution": [
+                "Grubbin",
+                "Vikavolt"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "80 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/vikavolt-stellar-crown-scr-053/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_053_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_053_std.png",
+        "details": {
+            "serial": "053",
+            "Name": "Vikavolt",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_053_std.png",
+            "Pokemon": "Vikavolt",
+            "Pokemon Link": "https://pkmncards.com/pokemon/vikavolt/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Lightning",
+            "Color Link": "https://pkmncards.com/color/lightning/",
+            "Stage": "Stage 2",
+            "Stage Link": "https://pkmncards.com/stage/stage-2/",
+            "Rarity": "Uncommon",
+            "Rarity Link": "https://pkmncards.com/rarity/uncommon/",
+            "Evolution": [
+                "Charjabug"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "160 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/togedemaru-stellar-crown-scr-054/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_054_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_054_std.png",
+        "details": {
+            "serial": "054",
+            "Name": "Togedemaru",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_054_std.png",
+            "Pokemon": "Togedemaru",
+            "Pokemon Link": "https://pkmncards.com/pokemon/togedemaru/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Lightning",
+            "Color Link": "https://pkmncards.com/color/lightning/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Uncommon",
+            "Rarity Link": "https://pkmncards.com/rarity/uncommon/",
+            "Evolution": [],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "80 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/zeraora-stellar-crown-scr-055/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_055_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_055_std.png",
+        "details": {
+            "serial": "055",
+            "Name": "Zeraora",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_055_std.png",
+            "Pokemon": "Zeraora",
+            "Pokemon Link": "https://pkmncards.com/pokemon/zeraora/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Lightning",
+            "Color Link": "https://pkmncards.com/color/lightning/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Rare",
+            "Rarity Link": "https://pkmncards.com/rarity/rare/",
+            "Evolution": [],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "120 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/pawmi-stellar-crown-scr-056/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_056_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_056_std.png",
+        "details": {
+            "serial": "056",
+            "Name": "Pawmi",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_056_std.png",
+            "Pokemon": "Pawmi",
+            "Pokemon Link": "https://pkmncards.com/pokemon/pawmi/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Lightning",
+            "Color Link": "https://pkmncards.com/color/lightning/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Common",
+            "Rarity Link": "https://pkmncards.com/rarity/common/",
+            "Evolution": [],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "40 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/joltik-stellar-crown-scr-050/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_050_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_050_std.png",
+        "details": {
+            "serial": "050",
+            "Name": "Joltik",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_050_std.png",
+            "Pokemon": "Joltik",
+            "Pokemon Link": "https://pkmncards.com/pokemon/joltik/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Lightning",
+            "Color Link": "https://pkmncards.com/color/lightning/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Common",
+            "Rarity Link": "https://pkmncards.com/rarity/common/",
+            "Evolution": [
+                "Galvantula ex"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "30 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/slowking-stellar-crown-scr-058/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_058_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_058_std.png",
+        "details": {
+            "serial": "058",
+            "Name": "Slowking",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_058_std.png",
+            "Pokemon": "Slowking",
+            "Pokemon Link": "https://pkmncards.com/pokemon/slowking/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Psychic",
+            "Color Link": "https://pkmncards.com/color/psychic/",
+            "Stage": "Stage 1",
+            "Stage Link": "https://pkmncards.com/stage/stage-1/",
+            "Rarity": "Uncommon",
+            "Rarity Link": "https://pkmncards.com/rarity/uncommon/",
+            "Evolution": [
+                "Slowpoke"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "120 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/slowpoke-stellar-crown-scr-057/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_057_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_057_std.png",
+        "details": {
+            "serial": "057",
+            "Name": "Slowpoke",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_057_std.png",
+            "Pokemon": "Slowpoke",
+            "Pokemon Link": "https://pkmncards.com/pokemon/slowpoke/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Psychic",
+            "Color Link": "https://pkmncards.com/color/psychic/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Common",
+            "Rarity Link": "https://pkmncards.com/rarity/common/",
+            "Evolution": [
+                "Slowbro",
+                "Slowking",
+                "Dark Slowbro",
+                "Dark Slowking",
+                "Slowking ex",
+                "Light Slowbro"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "80 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/mewtwo-stellar-crown-scr-059/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_059_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_059_std.png",
+        "details": {
+            "serial": "059",
+            "Name": "Mewtwo",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_059_std.png",
+            "Pokemon": "Mewtwo",
+            "Pokemon Link": "https://pkmncards.com/pokemon/mewtwo/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Psychic",
+            "Color Link": "https://pkmncards.com/color/psychic/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Uncommon",
+            "Rarity Link": "https://pkmncards.com/rarity/uncommon/",
+            "Evolution": [],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "130 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/drifblim-stellar-crown-scr-061/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_061_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_061_std.png",
+        "details": {
+            "serial": "061",
+            "Name": "Drifblim",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_061_std.png",
+            "Pokemon": "Drifblim",
+            "Pokemon Link": "https://pkmncards.com/pokemon/drifblim/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Psychic",
+            "Color Link": "https://pkmncards.com/color/psychic/",
+            "Stage": "Stage 1",
+            "Stage Link": "https://pkmncards.com/stage/stage-1/",
+            "Rarity": "Uncommon",
+            "Rarity Link": "https://pkmncards.com/rarity/uncommon/",
+            "Evolution": [
+                "Drifloon"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "130 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/drifloon-stellar-crown-scr-060/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_060_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_060_std.png",
+        "details": {
+            "serial": "060",
+            "Name": "Drifloon",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_060_std.png",
+            "Pokemon": "Drifloon",
+            "Pokemon Link": "https://pkmncards.com/pokemon/drifloon/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Psychic",
+            "Color Link": "https://pkmncards.com/color/psychic/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Common",
+            "Rarity Link": "https://pkmncards.com/rarity/common/",
+            "Evolution": [
+                "Drifblim"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "70 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/yamask-stellar-crown-scr-062/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_062_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_062_std.png",
+        "details": {
+            "serial": "062",
+            "Name": "Yamask",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_062_std.png",
+            "Pokemon": "Yamask",
+            "Pokemon Link": "https://pkmncards.com/pokemon/yamask/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Psychic",
+            "Color Link": "https://pkmncards.com/color/psychic/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Common",
+            "Rarity Link": "https://pkmncards.com/rarity/common/",
+            "Evolution": [],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "70 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/comfey-stellar-crown-scr-063/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_063_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_063_std.png",
+        "details": {
+            "serial": "063",
+            "Name": "Comfey",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_063_std.png",
+            "Pokemon": "Comfey",
+            "Pokemon Link": "https://pkmncards.com/pokemon/comfey/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Psychic",
+            "Color Link": "https://pkmncards.com/color/psychic/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Common",
+            "Rarity Link": "https://pkmncards.com/rarity/common/",
+            "Evolution": [],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "70 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/milcery-stellar-crown-scr-064/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_064_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_064_std.png",
+        "details": {
+            "serial": "064",
+            "Name": "Milcery",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_064_std.png",
+            "Pokemon": "Milcery",
+            "Pokemon Link": "https://pkmncards.com/pokemon/milcery/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Psychic",
+            "Color Link": "https://pkmncards.com/color/psychic/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Common",
+            "Rarity Link": "https://pkmncards.com/rarity/common/",
+            "Evolution": [
+                "Alcremie"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "60 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/alcremie-stellar-crown-scr-065/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_065_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_065_std.png",
+        "details": {
+            "serial": "065",
+            "Name": "Alcremie",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_065_std.png",
+            "Pokemon": "Alcremie",
+            "Pokemon Link": "https://pkmncards.com/pokemon/alcremie/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Psychic",
+            "Color Link": "https://pkmncards.com/color/psychic/",
+            "Stage": "Stage 1",
+            "Stage Link": "https://pkmncards.com/stage/stage-1/",
+            "Rarity": "Rare",
+            "Rarity Link": "https://pkmncards.com/rarity/rare/",
+            "Evolution": [
+                "Milcery"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "110 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/fidough-stellar-crown-scr-066/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_066_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_066_std.png",
+        "details": {
+            "serial": "066",
+            "Name": "Fidough",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_066_std.png",
+            "Pokemon": "Fidough",
+            "Pokemon Link": "https://pkmncards.com/pokemon/fidough/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Psychic",
+            "Color Link": "https://pkmncards.com/color/psychic/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Common",
+            "Rarity Link": "https://pkmncards.com/rarity/common/",
+            "Evolution": [
+                "Dachsbun",
+                "Dachsbun ex"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "60 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/dachsbun-ex-stellar-crown-scr-067/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_067_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_067_std.png",
+        "details": {
+            "serial": "067",
+            "Name": "Dachsbun ex",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_067_std.png",
+            "Pokemon": "Dachsbun",
+            "Pokemon Link": "https://pkmncards.com/pokemon/dachsbun/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Psychic",
+            "Color Link": "https://pkmncards.com/color/psychic/",
+            "Stage": "Stage 1",
+            "Stage Link": "https://pkmncards.com/stage/stage-1/",
+            "Rarity": "Double Rare",
+            "Rarity Link": "https://pkmncards.com/rarity/double-rare/",
+            "Evolution": [
+                "Fidough"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "250 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/flittle-stellar-crown-scr-068/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_068_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_068_std.png",
+        "details": {
+            "serial": "068",
+            "Name": "Flittle",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_068_std.png",
+            "Pokemon": "Flittle",
+            "Pokemon Link": "https://pkmncards.com/pokemon/flittle/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Psychic",
+            "Color Link": "https://pkmncards.com/color/psychic/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Common",
+            "Rarity Link": "https://pkmncards.com/rarity/common/",
+            "Evolution": [
+                "Espathra"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "50 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/espathra-stellar-crown-scr-069/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_069_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_069_std.png",
+        "details": {
+            "serial": "069",
+            "Name": "Espathra",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_069_std.png",
+            "Pokemon": "Espathra",
+            "Pokemon Link": "https://pkmncards.com/pokemon/espathra/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Psychic",
+            "Color Link": "https://pkmncards.com/color/psychic/",
+            "Stage": "Stage 1",
+            "Stage Link": "https://pkmncards.com/stage/stage-1/",
+            "Rarity": "Common",
+            "Rarity Link": "https://pkmncards.com/rarity/common/",
+            "Evolution": [
+                "Flittle"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "130 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/greavard-stellar-crown-scr-070/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_070_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_070_std.png",
+        "details": {
+            "serial": "070",
+            "Name": "Greavard",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_070_std.png",
+            "Pokemon": "Greavard",
+            "Pokemon Link": "https://pkmncards.com/pokemon/greavard/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Psychic",
+            "Color Link": "https://pkmncards.com/color/psychic/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Common",
+            "Rarity Link": "https://pkmncards.com/rarity/common/",
+            "Evolution": [
+                "Houndstone ex"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "80 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/iron-boulder-stellar-crown-scr-071/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_071_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_071_std.png",
+        "details": {
+            "serial": "071",
+            "Name": "Iron Boulder",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_071_std.png",
+            "Pokemon": "Iron Boulder",
+            "Pokemon Link": "https://pkmncards.com/pokemon/iron-boulder/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Psychic",
+            "Color Link": "https://pkmncards.com/color/psychic/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Rare",
+            "Rarity Link": "https://pkmncards.com/rarity/rare/",
+            "Evolution": [],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "140 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/cubone-stellar-crown-scr-072/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_072_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_072_std.png",
+        "details": {
+            "serial": "072",
+            "Name": "Cubone",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_072_std.png",
+            "Pokemon": "Cubone",
+            "Pokemon Link": "https://pkmncards.com/pokemon/cubone/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Fighting",
+            "Color Link": "https://pkmncards.com/color/fighting/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Common",
+            "Rarity Link": "https://pkmncards.com/rarity/common/",
+            "Evolution": [
+                "Marowak"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "70 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/rhyhorn-stellar-crown-scr-074/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_074_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_074_std.png",
+        "details": {
+            "serial": "074",
+            "Name": "Rhyhorn",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_074_std.png",
+            "Pokemon": "Rhyhorn",
+            "Pokemon Link": "https://pkmncards.com/pokemon/rhyhorn/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Fighting",
+            "Color Link": "https://pkmncards.com/color/fighting/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Common",
+            "Rarity Link": "https://pkmncards.com/rarity/common/",
+            "Evolution": [
+                "Rhydon"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "100 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/marowak-stellar-crown-scr-073/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_073_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_073_std.png",
+        "details": {
+            "serial": "073",
+            "Name": "Marowak",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_073_std.png",
+            "Pokemon": "Marowak",
+            "Pokemon Link": "https://pkmncards.com/pokemon/marowak/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Fighting",
+            "Color Link": "https://pkmncards.com/color/fighting/",
+            "Stage": "Stage 1",
+            "Stage Link": "https://pkmncards.com/stage/stage-1/",
+            "Rarity": "Uncommon",
+            "Rarity Link": "https://pkmncards.com/rarity/uncommon/",
+            "Evolution": [
+                "Cubone"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "120 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/meditite-stellar-crown-scr-077/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_077_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_077_std.png",
+        "details": {
+            "serial": "077",
+            "Name": "Meditite",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_077_std.png",
+            "Pokemon": "Meditite",
+            "Pokemon Link": "https://pkmncards.com/pokemon/meditite/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Fighting",
+            "Color Link": "https://pkmncards.com/color/fighting/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Common",
+            "Rarity Link": "https://pkmncards.com/rarity/common/",
+            "Evolution": [
+                "Medicham",
+                "Medicham ex"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "70 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/rhydon-stellar-crown-scr-075/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_075_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_075_std.png",
+        "details": {
+            "serial": "075",
+            "Name": "Rhydon",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_075_std.png",
+            "Pokemon": "Rhydon",
+            "Pokemon Link": "https://pkmncards.com/pokemon/rhydon/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Fighting",
+            "Color Link": "https://pkmncards.com/color/fighting/",
+            "Stage": "Stage 1",
+            "Stage Link": "https://pkmncards.com/stage/stage-1/",
+            "Rarity": "Common",
+            "Rarity Link": "https://pkmncards.com/rarity/common/",
+            "Evolution": [
+                "Rhyhorn",
+                "Rhyperior"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "140 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/rhyperior-stellar-crown-scr-076/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_076_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_076_std.png",
+        "details": {
+            "serial": "076",
+            "Name": "Rhyperior",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_076_std.png",
+            "Pokemon": "Rhyperior",
+            "Pokemon Link": "https://pkmncards.com/pokemon/rhyperior/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Fighting",
+            "Color Link": "https://pkmncards.com/color/fighting/",
+            "Stage": "Stage 2",
+            "Stage Link": "https://pkmncards.com/stage/stage-2/",
+            "Rarity": "Rare",
+            "Rarity Link": "https://pkmncards.com/rarity/rare/",
+            "Evolution": [
+                "Rhydon"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "200 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/medicham-stellar-crown-scr-079/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_079_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_079_std.png",
+        "details": {
+            "serial": "079",
+            "Name": "Medicham",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_079_std.png",
+            "Pokemon": "Medicham",
+            "Pokemon Link": "https://pkmncards.com/pokemon/medicham/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Fighting",
+            "Color Link": "https://pkmncards.com/color/fighting/",
+            "Stage": "Stage 1",
+            "Stage Link": "https://pkmncards.com/stage/stage-1/",
+            "Rarity": "Common",
+            "Rarity Link": "https://pkmncards.com/rarity/common/",
+            "Evolution": [
+                "Meditite"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "110 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/meditite-stellar-crown-scr-078/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_078_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_078_std.png",
+        "details": {
+            "serial": "078",
+            "Name": "Meditite",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_078_std.png",
+            "Pokemon": "Meditite",
+            "Pokemon Link": "https://pkmncards.com/pokemon/meditite/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Fighting",
+            "Color Link": "https://pkmncards.com/color/fighting/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Common",
+            "Rarity Link": "https://pkmncards.com/rarity/common/",
+            "Evolution": [
+                "Medicham",
+                "Medicham ex"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "70 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/medicham-ex-stellar-crown-scr-080/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_080_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_080_std.png",
+        "details": {
+            "serial": "080",
+            "Name": "Medicham ex",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_080_std.png",
+            "Pokemon": "Medicham",
+            "Pokemon Link": "https://pkmncards.com/pokemon/medicham/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Fighting",
+            "Color Link": "https://pkmncards.com/color/fighting/",
+            "Stage": "Stage 1",
+            "Stage Link": "https://pkmncards.com/stage/stage-1/",
+            "Rarity": "Double Rare",
+            "Rarity Link": "https://pkmncards.com/rarity/double-rare/",
+            "Evolution": [
+                "Meditite"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "260 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/riolu-stellar-crown-scr-081/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_081_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_081_std.png",
+        "details": {
+            "serial": "081",
+            "Name": "Riolu",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_081_std.png",
+            "Pokemon": "Riolu",
+            "Pokemon Link": "https://pkmncards.com/pokemon/riolu/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Fighting",
+            "Color Link": "https://pkmncards.com/color/fighting/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Common",
+            "Rarity Link": "https://pkmncards.com/rarity/common/",
+            "Evolution": [
+                "Lucario",
+                "Lucario-GX",
+                "Lucario ex"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "70 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/mienfoo-stellar-crown-scr-083/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_083_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_083_std.png",
+        "details": {
+            "serial": "083",
+            "Name": "Mienfoo",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_083_std.png",
+            "Pokemon": "Mienfoo",
+            "Pokemon Link": "https://pkmncards.com/pokemon/mienfoo/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Fighting",
+            "Color Link": "https://pkmncards.com/color/fighting/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Common",
+            "Rarity Link": "https://pkmncards.com/rarity/common/",
+            "Evolution": [
+                "Mienshao"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "60 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/lucario-ex-stellar-crown-scr-082/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_082_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_082_std.png",
+        "details": {
+            "serial": "082",
+            "Name": "Lucario ex",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_082_std.png",
+            "Pokemon": "Lucario",
+            "Pokemon Link": "https://pkmncards.com/pokemon/lucario/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Fighting",
+            "Color Link": "https://pkmncards.com/color/fighting/",
+            "Stage": "Stage 1",
+            "Stage Link": "https://pkmncards.com/stage/stage-1/",
+            "Rarity": "Double Rare",
+            "Rarity Link": "https://pkmncards.com/rarity/double-rare/",
+            "Evolution": [
+                "Riolu"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "250 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/pancham-stellar-crown-scr-085/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_085_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_085_std.png",
+        "details": {
+            "serial": "085",
+            "Name": "Pancham",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_085_std.png",
+            "Pokemon": "Pancham",
+            "Pokemon Link": "https://pkmncards.com/pokemon/pancham/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Fighting",
+            "Color Link": "https://pkmncards.com/color/fighting/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Common",
+            "Rarity Link": "https://pkmncards.com/rarity/common/",
+            "Evolution": [
+                "Pangoro"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "70 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/mienshao-stellar-crown-scr-084/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_084_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_084_std.png",
+        "details": {
+            "serial": "084",
+            "Name": "Mienshao",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_084_std.png",
+            "Pokemon": "Mienshao",
+            "Pokemon Link": "https://pkmncards.com/pokemon/mienshao/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Fighting",
+            "Color Link": "https://pkmncards.com/color/fighting/",
+            "Stage": "Stage 1",
+            "Stage Link": "https://pkmncards.com/stage/stage-1/",
+            "Rarity": "Uncommon",
+            "Rarity Link": "https://pkmncards.com/rarity/uncommon/",
+            "Evolution": [
+                "Mienfoo"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "90 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/crabrawler-stellar-crown-scr-087/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_087_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_087_std.png",
+        "details": {
+            "serial": "087",
+            "Name": "Crabrawler",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_087_std.png",
+            "Pokemon": "Crabrawler",
+            "Pokemon Link": "https://pkmncards.com/pokemon/crabrawler/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Fighting",
+            "Color Link": "https://pkmncards.com/color/fighting/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Common",
+            "Rarity Link": "https://pkmncards.com/rarity/common/",
+            "Evolution": [
+                "Crabominable"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "90 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/diancie-stellar-crown-scr-086/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_086_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_086_std.png",
+        "details": {
+            "serial": "086",
+            "Name": "Diancie",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_086_std.png",
+            "Pokemon": "Diancie",
+            "Pokemon Link": "https://pkmncards.com/pokemon/diancie/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Fighting",
+            "Color Link": "https://pkmncards.com/color/fighting/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Uncommon",
+            "Rarity Link": "https://pkmncards.com/rarity/uncommon/",
+            "Evolution": [],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "110 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/falinks-stellar-crown-scr-088/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_088_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_088_std.png",
+        "details": {
+            "serial": "088",
+            "Name": "Falinks",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_088_std.png",
+            "Pokemon": "Falinks",
+            "Pokemon Link": "https://pkmncards.com/pokemon/falinks/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Fighting",
+            "Color Link": "https://pkmncards.com/color/fighting/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Common",
+            "Rarity Link": "https://pkmncards.com/rarity/common/",
+            "Evolution": [],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "110 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/garganacl-ex-stellar-crown-scr-089/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_089_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_089_std.png",
+        "details": {
+            "serial": "089",
+            "Name": "Garganacl ex",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_089_std.png",
+            "Pokemon": "Garganacl",
+            "Pokemon Link": "https://pkmncards.com/pokemon/garganacl/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Fighting",
+            "Color Link": "https://pkmncards.com/color/fighting/",
+            "Stage": "Stage 2",
+            "Stage Link": "https://pkmncards.com/stage/stage-2/",
+            "Rarity": "Double Rare",
+            "Rarity Link": "https://pkmncards.com/rarity/double-rare/",
+            "Evolution": [
+                "Naclstack"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "340 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/koraidon-stellar-crown-scr-090/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_090_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_090_std.png",
+        "details": {
+            "serial": "090",
+            "Name": "Koraidon",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_090_std.png",
+            "Pokemon": "Koraidon",
+            "Pokemon Link": "https://pkmncards.com/pokemon/koraidon/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Fighting",
+            "Color Link": "https://pkmncards.com/color/fighting/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Uncommon",
+            "Rarity Link": "https://pkmncards.com/rarity/uncommon/",
+            "Evolution": [],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "130 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/gulpin-stellar-crown-scr-091/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_091_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_091_std.png",
+        "details": {
+            "serial": "091",
+            "Name": "Gulpin",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_091_std.png",
+            "Pokemon": "Gulpin",
+            "Pokemon Link": "https://pkmncards.com/pokemon/gulpin/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Darkness",
+            "Color Link": "https://pkmncards.com/color/darkness/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Common",
+            "Rarity Link": "https://pkmncards.com/rarity/common/",
+            "Evolution": [
+                "Swalot"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "70 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/pangoro-stellar-crown-scr-093/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_093_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_093_std.png",
+        "details": {
+            "serial": "093",
+            "Name": "Pangoro",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_093_std.png",
+            "Pokemon": "Pangoro",
+            "Pokemon Link": "https://pkmncards.com/pokemon/pangoro/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Darkness",
+            "Color Link": "https://pkmncards.com/color/darkness/",
+            "Stage": "Stage 1",
+            "Stage Link": "https://pkmncards.com/stage/stage-1/",
+            "Rarity": "Uncommon",
+            "Rarity Link": "https://pkmncards.com/rarity/uncommon/",
+            "Evolution": [
+                "Pancham"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "140 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/swalot-stellar-crown-scr-092/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_092_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_092_std.png",
+        "details": {
+            "serial": "092",
+            "Name": "Swalot",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_092_std.png",
+            "Pokemon": "Swalot",
+            "Pokemon Link": "https://pkmncards.com/pokemon/swalot/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Darkness",
+            "Color Link": "https://pkmncards.com/color/darkness/",
+            "Stage": "Stage 1",
+            "Stage Link": "https://pkmncards.com/stage/stage-1/",
+            "Rarity": "Uncommon",
+            "Rarity Link": "https://pkmncards.com/rarity/uncommon/",
+            "Evolution": [
+                "Gulpin"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "130 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/impidimp-stellar-crown-scr-094/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_094_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_094_std.png",
+        "details": {
+            "serial": "094",
+            "Name": "Impidimp",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_094_std.png",
+            "Pokemon": "Impidimp",
+            "Pokemon Link": "https://pkmncards.com/pokemon/impidimp/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Darkness",
+            "Color Link": "https://pkmncards.com/color/darkness/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Common",
+            "Rarity Link": "https://pkmncards.com/rarity/common/",
+            "Evolution": [
+                "Morgrem"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "70 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/morgrem-stellar-crown-scr-095/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_095_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_095_std.png",
+        "details": {
+            "serial": "095",
+            "Name": "Morgrem",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_095_std.png",
+            "Pokemon": "Morgrem",
+            "Pokemon Link": "https://pkmncards.com/pokemon/morgrem/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Darkness",
+            "Color Link": "https://pkmncards.com/color/darkness/",
+            "Stage": "Stage 1",
+            "Stage Link": "https://pkmncards.com/stage/stage-1/",
+            "Rarity": "Common",
+            "Rarity Link": "https://pkmncards.com/rarity/common/",
+            "Evolution": [
+                "Impidimp",
+                "Grimmsnarl"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "90 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/grimmsnarl-stellar-crown-scr-096/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_096_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_096_std.png",
+        "details": {
+            "serial": "096",
+            "Name": "Grimmsnarl",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_096_std.png",
+            "Pokemon": "Grimmsnarl",
+            "Pokemon Link": "https://pkmncards.com/pokemon/grimmsnarl/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Darkness",
+            "Color Link": "https://pkmncards.com/color/darkness/",
+            "Stage": "Stage 2",
+            "Stage Link": "https://pkmncards.com/stage/stage-2/",
+            "Rarity": "Rare",
+            "Rarity Link": "https://pkmncards.com/rarity/rare/",
+            "Evolution": [
+                "Morgrem"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "170 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/bombirdier-stellar-crown-scr-097/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_097_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_097_std.png",
+        "details": {
+            "serial": "097",
+            "Name": "Bombirdier",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_097_std.png",
+            "Pokemon": "Bombirdier",
+            "Pokemon Link": "https://pkmncards.com/pokemon/bombirdier/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Darkness",
+            "Color Link": "https://pkmncards.com/color/darkness/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Common",
+            "Rarity Link": "https://pkmncards.com/rarity/common/",
+            "Evolution": [],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "100 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/jirachi-stellar-crown-scr-098/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_098_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_098_std.png",
+        "details": {
+            "serial": "098",
+            "Name": "Jirachi",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_098_std.png",
+            "Pokemon": "Jirachi",
+            "Pokemon Link": "https://pkmncards.com/pokemon/jirachi/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Metal",
+            "Color Link": "https://pkmncards.com/color/metal/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Uncommon",
+            "Rarity Link": "https://pkmncards.com/rarity/uncommon/",
+            "Evolution": [],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "80 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/klink-stellar-crown-scr-099/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_099_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_099_std.png",
+        "details": {
+            "serial": "099",
+            "Name": "Klink",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_099_std.png",
+            "Pokemon": "Klink",
+            "Pokemon Link": "https://pkmncards.com/pokemon/klink/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Metal",
+            "Color Link": "https://pkmncards.com/color/metal/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Common",
+            "Rarity Link": "https://pkmncards.com/rarity/common/",
+            "Evolution": [
+                "Klang"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "60 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/klinklang-stellar-crown-scr-101/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_101_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_101_std.png",
+        "details": {
+            "serial": "101",
+            "Name": "Klinklang",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_101_std.png",
+            "Pokemon": "Klinklang",
+            "Pokemon Link": "https://pkmncards.com/pokemon/klinklang/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Metal",
+            "Color Link": "https://pkmncards.com/color/metal/",
+            "Stage": "Stage 2",
+            "Stage Link": "https://pkmncards.com/stage/stage-2/",
+            "Rarity": "Rare",
+            "Rarity Link": "https://pkmncards.com/rarity/rare/",
+            "Evolution": [
+                "Klang"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "140 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/klang-stellar-crown-scr-100/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_100_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_100_std.png",
+        "details": {
+            "serial": "100",
+            "Name": "Klang",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_100_std.png",
+            "Pokemon": "Klang",
+            "Pokemon Link": "https://pkmncards.com/pokemon/klang/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Metal",
+            "Color Link": "https://pkmncards.com/color/metal/",
+            "Stage": "Stage 1",
+            "Stage Link": "https://pkmncards.com/stage/stage-1/",
+            "Rarity": "Common",
+            "Rarity Link": "https://pkmncards.com/rarity/common/",
+            "Evolution": [
+                "Klink",
+                "Klinklang"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "90 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/meltan-stellar-crown-scr-103/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_103_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_103_std.png",
+        "details": {
+            "serial": "103",
+            "Name": "Meltan",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_103_std.png",
+            "Pokemon": "Meltan",
+            "Pokemon Link": "https://pkmncards.com/pokemon/meltan/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Metal",
+            "Color Link": "https://pkmncards.com/color/metal/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Common",
+            "Rarity Link": "https://pkmncards.com/rarity/common/",
+            "Evolution": [
+                "Melmetal",
+                "Melmetal ex",
+                "Melmetal-GX"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "70 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/meltan-stellar-crown-scr-102/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_102_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_102_std.png",
+        "details": {
+            "serial": "102",
+            "Name": "Meltan",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_102_std.png",
+            "Pokemon": "Meltan",
+            "Pokemon Link": "https://pkmncards.com/pokemon/meltan/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Metal",
+            "Color Link": "https://pkmncards.com/color/metal/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Common",
+            "Rarity Link": "https://pkmncards.com/rarity/common/",
+            "Evolution": [
+                "Melmetal",
+                "Melmetal ex",
+                "Melmetal-GX"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "60 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/melmetal-stellar-crown-scr-104/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_104_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_104_std.png",
+        "details": {
+            "serial": "104",
+            "Name": "Melmetal",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_104_std.png",
+            "Pokemon": "Melmetal",
+            "Pokemon Link": "https://pkmncards.com/pokemon/melmetal/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Metal",
+            "Color Link": "https://pkmncards.com/color/metal/",
+            "Stage": "Stage 1",
+            "Stage Link": "https://pkmncards.com/stage/stage-1/",
+            "Rarity": "Rare",
+            "Rarity Link": "https://pkmncards.com/rarity/rare/",
+            "Evolution": [
+                "Meltan"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "160 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/duraludon-stellar-crown-scr-106/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_106_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_106_std.png",
+        "details": {
+            "serial": "106",
+            "Name": "Duraludon",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_106_std.png",
+            "Pokemon": "Duraludon",
+            "Pokemon Link": "https://pkmncards.com/pokemon/duraludon/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Metal",
+            "Color Link": "https://pkmncards.com/color/metal/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Common",
+            "Rarity Link": "https://pkmncards.com/rarity/common/",
+            "Evolution": [
+                "Archaludon"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "130 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/melmetal-ex-stellar-crown-scr-105/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_105_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_105_std.png",
+        "details": {
+            "serial": "105",
+            "Name": "Melmetal ex",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_105_std.png",
+            "Pokemon": "Melmetal",
+            "Pokemon Link": "https://pkmncards.com/pokemon/melmetal/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Metal",
+            "Color Link": "https://pkmncards.com/color/metal/",
+            "Stage": "Stage 1",
+            "Stage Link": "https://pkmncards.com/stage/stage-1/",
+            "Rarity": "Double Rare",
+            "Rarity Link": "https://pkmncards.com/rarity/double-rare/",
+            "Evolution": [
+                "Meltan"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "280 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/archaludon-stellar-crown-scr-107/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_107_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_107_std.png",
+        "details": {
+            "serial": "107",
+            "Name": "Archaludon",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_107_std.png",
+            "Pokemon": "Archaludon",
+            "Pokemon Link": "https://pkmncards.com/pokemon/archaludon/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Metal",
+            "Color Link": "https://pkmncards.com/color/metal/",
+            "Stage": "Stage 1",
+            "Stage Link": "https://pkmncards.com/stage/stage-1/",
+            "Rarity": "Rare",
+            "Rarity Link": "https://pkmncards.com/rarity/rare/",
+            "Evolution": [
+                "Duraludon"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "180 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/varoom-stellar-crown-scr-108/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_108_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_108_std.png",
+        "details": {
+            "serial": "108",
+            "Name": "Varoom",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_108_std.png",
+            "Pokemon": "Varoom",
+            "Pokemon Link": "https://pkmncards.com/pokemon/varoom/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Metal",
+            "Color Link": "https://pkmncards.com/color/metal/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Common",
+            "Rarity Link": "https://pkmncards.com/rarity/common/",
+            "Evolution": [
+                "Revavroom"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "80 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/revavroom-stellar-crown-scr-109/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_109_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_109_std.png",
+        "details": {
+            "serial": "109",
+            "Name": "Revavroom",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_109_std.png",
+            "Pokemon": "Revavroom",
+            "Pokemon Link": "https://pkmncards.com/pokemon/revavroom/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Metal",
+            "Color Link": "https://pkmncards.com/color/metal/",
+            "Stage": "Stage 1",
+            "Stage Link": "https://pkmncards.com/stage/stage-1/",
+            "Rarity": "Uncommon",
+            "Rarity Link": "https://pkmncards.com/rarity/uncommon/",
+            "Evolution": [
+                "Varoom"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "150 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/raging-bolt-stellar-crown-scr-111/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_111_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_111_std.png",
+        "details": {
+            "serial": "111",
+            "Name": "Raging Bolt",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_111_std.png",
+            "Pokemon": "Raging Bolt",
+            "Pokemon Link": "https://pkmncards.com/pokemon/raging-bolt/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Dragon",
+            "Color Link": "https://pkmncards.com/color/dragon/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Rare",
+            "Rarity Link": "https://pkmncards.com/rarity/rare/",
+            "Evolution": [],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "130 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/orthworm-ex-stellar-crown-scr-110/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_110_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_110_std.png",
+        "details": {
+            "serial": "110",
+            "Name": "Orthworm ex",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_110_std.png",
+            "Pokemon": "Orthworm",
+            "Pokemon Link": "https://pkmncards.com/pokemon/orthworm/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Metal",
+            "Color Link": "https://pkmncards.com/color/metal/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Double Rare",
+            "Rarity Link": "https://pkmncards.com/rarity/double-rare/",
+            "Evolution": [],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "220 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/tauros-stellar-crown-scr-112/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_112_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_112_std.png",
+        "details": {
+            "serial": "112",
+            "Name": "Tauros",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_112_std.png",
+            "Pokemon": "Tauros",
+            "Pokemon Link": "https://pkmncards.com/pokemon/tauros/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Colorless",
+            "Color Link": "https://pkmncards.com/color/colorless/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Common",
+            "Rarity Link": "https://pkmncards.com/rarity/common/",
+            "Evolution": [],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "120 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/eevee-stellar-crown-scr-113/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_113_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_113_std.png",
+        "details": {
+            "serial": "113",
+            "Name": "Eevee",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_113_std.png",
+            "Pokemon": "Eevee",
+            "Pokemon Link": "https://pkmncards.com/pokemon/eevee/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Colorless",
+            "Color Link": "https://pkmncards.com/color/colorless/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Common",
+            "Rarity Link": "https://pkmncards.com/rarity/common/",
+            "Evolution": [
+                "Jolteon",
+                "Flareon",
+                "Vaporeon",
+                "Umbreon",
+                "Espeon",
+                "Leafeon",
+                "Glaceon",
+                "Sylveon",
+                "Sylveon-GX",
+                "Glaceon-GX",
+                "Umbreon-GX",
+                "Leafeon-GX",
+                "Espeon-GX",
+                "Dark Vaporeon",
+                "Dark Espeon",
+                "Dark Flareon",
+                "Umbreon ex",
+                "Dark Jolteon",
+                "Jolteon ex",
+                "Jolteon-GX",
+                "Vaporeon ex",
+                "Espeon ex",
+                "Vaporeon-GX",
+                "Light Flareon",
+                "Light Jolteon",
+                "Flareon ex",
+                "Light Vaporeon",
+                "Flareon-GX"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "60 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/noctowl-stellar-crown-scr-115/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_115_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_115_std.png",
+        "details": {
+            "serial": "115",
+            "Name": "Noctowl",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_115_std.png",
+            "Pokemon": "Noctowl",
+            "Pokemon Link": "https://pkmncards.com/pokemon/noctowl/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Colorless",
+            "Color Link": "https://pkmncards.com/color/colorless/",
+            "Stage": "Stage 1",
+            "Stage Link": "https://pkmncards.com/stage/stage-1/",
+            "Rarity": "Rare",
+            "Rarity Link": "https://pkmncards.com/rarity/rare/",
+            "Evolution": [
+                "Hoothoot",
+                "Noctowl BREAK"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "100 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/hoothoot-stellar-crown-scr-114/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_114_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_114_std.png",
+        "details": {
+            "serial": "114",
+            "Name": "Hoothoot",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_114_std.png",
+            "Pokemon": "Hoothoot",
+            "Pokemon Link": "https://pkmncards.com/pokemon/hoothoot/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Colorless",
+            "Color Link": "https://pkmncards.com/color/colorless/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Common",
+            "Rarity Link": "https://pkmncards.com/rarity/common/",
+            "Evolution": [
+                "Noctowl"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "70 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/purugly-stellar-crown-scr-117/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_117_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_117_std.png",
+        "details": {
+            "serial": "117",
+            "Name": "Purugly",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_117_std.png",
+            "Pokemon": "Purugly",
+            "Pokemon Link": "https://pkmncards.com/pokemon/purugly/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Colorless",
+            "Color Link": "https://pkmncards.com/color/colorless/",
+            "Stage": "Stage 1",
+            "Stage Link": "https://pkmncards.com/stage/stage-1/",
+            "Rarity": "Common",
+            "Rarity Link": "https://pkmncards.com/rarity/common/",
+            "Evolution": [
+                "Glameow"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "120 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/glameow-stellar-crown-scr-116/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_116_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_116_std.png",
+        "details": {
+            "serial": "116",
+            "Name": "Glameow",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_116_std.png",
+            "Pokemon": "Glameow",
+            "Pokemon Link": "https://pkmncards.com/pokemon/glameow/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Colorless",
+            "Color Link": "https://pkmncards.com/color/colorless/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Common",
+            "Rarity Link": "https://pkmncards.com/rarity/common/",
+            "Evolution": [
+                "Purugly"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "60 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/fan-rotom-stellar-crown-scr-118/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_118_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_118_std.png",
+        "details": {
+            "serial": "118",
+            "Name": "Fan Rotom",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_118_std.png",
+            "Pokemon": "Rotom",
+            "Pokemon Link": "https://pkmncards.com/pokemon/rotom/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Colorless",
+            "Color Link": "https://pkmncards.com/color/colorless/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Common",
+            "Rarity Link": "https://pkmncards.com/rarity/common/",
+            "Evolution": [],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "70 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/bouffalant-stellar-crown-scr-119/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_119_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_119_std.png",
+        "details": {
+            "serial": "119",
+            "Name": "Bouffalant",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_119_std.png",
+            "Pokemon": "Bouffalant",
+            "Pokemon Link": "https://pkmncards.com/pokemon/bouffalant/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Colorless",
+            "Color Link": "https://pkmncards.com/color/colorless/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Rare",
+            "Rarity Link": "https://pkmncards.com/rarity/rare/",
+            "Evolution": [],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "100 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/tornadus-stellar-crown-scr-120/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_120_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_120_std.png",
+        "details": {
+            "serial": "120",
+            "Name": "Tornadus",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_120_std.png",
+            "Pokemon": "Tornadus",
+            "Pokemon Link": "https://pkmncards.com/pokemon/tornadus/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Colorless",
+            "Color Link": "https://pkmncards.com/color/colorless/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Uncommon",
+            "Rarity Link": "https://pkmncards.com/rarity/uncommon/",
+            "Evolution": [],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "110 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/fletchling-stellar-crown-scr-121/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_121_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_121_std.png",
+        "details": {
+            "serial": "121",
+            "Name": "Fletchling",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_121_std.png",
+            "Pokemon": "Fletchling",
+            "Pokemon Link": "https://pkmncards.com/pokemon/fletchling/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Colorless",
+            "Color Link": "https://pkmncards.com/color/colorless/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Common",
+            "Rarity Link": "https://pkmncards.com/rarity/common/",
+            "Evolution": [
+                "Fletchinder"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "60 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/talonflame-stellar-crown-scr-123/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_123_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_123_std.png",
+        "details": {
+            "serial": "123",
+            "Name": "Talonflame",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_123_std.png",
+            "Pokemon": "Talonflame",
+            "Pokemon Link": "https://pkmncards.com/pokemon/talonflame/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Colorless",
+            "Color Link": "https://pkmncards.com/color/colorless/",
+            "Stage": "Stage 2",
+            "Stage Link": "https://pkmncards.com/stage/stage-2/",
+            "Rarity": "Uncommon",
+            "Rarity Link": "https://pkmncards.com/rarity/uncommon/",
+            "Evolution": [
+                "Fletchinder",
+                "Talonflame BREAK"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "140 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/fletchinder-stellar-crown-scr-122/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_122_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_122_std.png",
+        "details": {
+            "serial": "122",
+            "Name": "Fletchinder",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_122_std.png",
+            "Pokemon": "Fletchinder",
+            "Pokemon Link": "https://pkmncards.com/pokemon/fletchinder/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Colorless",
+            "Color Link": "https://pkmncards.com/color/colorless/",
+            "Stage": "Stage 1",
+            "Stage Link": "https://pkmncards.com/stage/stage-1/",
+            "Rarity": "Common",
+            "Rarity Link": "https://pkmncards.com/rarity/common/",
+            "Evolution": [
+                "Fletchling",
+                "Talonflame"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "90 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/dubwool-stellar-crown-scr-125/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_125_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_125_std.png",
+        "details": {
+            "serial": "125",
+            "Name": "Dubwool",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_125_std.png",
+            "Pokemon": "Dubwool",
+            "Pokemon Link": "https://pkmncards.com/pokemon/dubwool/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Colorless",
+            "Color Link": "https://pkmncards.com/color/colorless/",
+            "Stage": "Stage 1",
+            "Stage Link": "https://pkmncards.com/stage/stage-1/",
+            "Rarity": "Uncommon",
+            "Rarity Link": "https://pkmncards.com/rarity/uncommon/",
+            "Evolution": [
+                "Wooloo"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "130 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/wooloo-stellar-crown-scr-124/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_124_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_124_std.png",
+        "details": {
+            "serial": "124",
+            "Name": "Wooloo",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_124_std.png",
+            "Pokemon": "Wooloo",
+            "Pokemon Link": "https://pkmncards.com/pokemon/wooloo/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Colorless",
+            "Color Link": "https://pkmncards.com/color/colorless/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Common",
+            "Rarity Link": "https://pkmncards.com/rarity/common/",
+            "Evolution": [
+                "Dubwool"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "70 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/lechonk-stellar-crown-scr-126/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_126_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_126_std.png",
+        "details": {
+            "serial": "126",
+            "Name": "Lechonk",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_126_std.png",
+            "Pokemon": "Lechonk",
+            "Pokemon Link": "https://pkmncards.com/pokemon/lechonk/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Colorless",
+            "Color Link": "https://pkmncards.com/color/colorless/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Common",
+            "Rarity Link": "https://pkmncards.com/rarity/common/",
+            "Evolution": [],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "50 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/cyclizar-stellar-crown-scr-127/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_127_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_127_std.png",
+        "details": {
+            "serial": "127",
+            "Name": "Cyclizar",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_127_std.png",
+            "Pokemon": "Cyclizar",
+            "Pokemon Link": "https://pkmncards.com/pokemon/cyclizar/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Colorless",
+            "Color Link": "https://pkmncards.com/color/colorless/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Common",
+            "Rarity Link": "https://pkmncards.com/rarity/common/",
+            "Evolution": [],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "110 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/terapagos-ex-stellar-crown-scr-128/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_128_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_128_std.png",
+        "details": {
+            "serial": "128",
+            "Name": "Terapagos ex",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_128_std.png",
+            "Pokemon": "Terapagos",
+            "Pokemon Link": "https://pkmncards.com/pokemon/terapagos/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Colorless",
+            "Color Link": "https://pkmncards.com/color/colorless/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Double Rare",
+            "Rarity Link": "https://pkmncards.com/rarity/double-rare/",
+            "Evolution": [],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "230 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/antique-cover-fossil-stellar-crown-scr-129/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_129_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_129_std.png",
+        "details": {
+            "Name": "Antique Cover Fossil",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_129_std.png",
+            "type": "Trainer",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "serial": "129",
+            "Date": "Sep 13, 2024",
+            "Rarity": "Common",
+            "Rarity Link": "https://pkmncards.com/rarity/common/"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/antique-root-fossil-stellar-crown-scr-130/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_130_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_130_std.png",
+        "details": {
+            "Name": "Antique Root Fossil",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_130_std.png",
+            "type": "Trainer",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "serial": "130",
+            "Date": "Sep 13, 2024",
+            "Rarity": "Common",
+            "Rarity Link": "https://pkmncards.com/rarity/common/"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/area-zero-underdepths-stellar-crown-scr-131/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_131_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_131_std.png",
+        "details": {
+            "Name": "Area Zero Underdepths",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_131_std.png",
+            "type": "Trainer",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "serial": "131",
+            "Date": "Sep 13, 2024",
+            "Rarity": "Uncommon",
+            "Rarity Link": "https://pkmncards.com/rarity/uncommon/"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/briar-stellar-crown-scr-132/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_132_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_132_std.png",
+        "details": {
+            "Name": "Briar",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_132_std.png",
+            "type": "Trainer",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "serial": "132",
+            "Date": "Sep 13, 2024",
+            "Rarity": "Uncommon",
+            "Rarity Link": "https://pkmncards.com/rarity/uncommon/"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/crispin-stellar-crown-scr-133/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_133_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_133_std.png",
+        "details": {
+            "Name": "Crispin",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_133_std.png",
+            "type": "Trainer",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "serial": "133",
+            "Date": "Sep 13, 2024",
+            "Rarity": "Uncommon",
+            "Rarity Link": "https://pkmncards.com/rarity/uncommon/"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/glass-trumpet-stellar-crown-scr-135/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_135_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_135_std.png",
+        "details": {
+            "Name": "Glass Trumpet",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_135_std.png",
+            "type": "Trainer",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "serial": "135",
+            "Date": "Sep 13, 2024",
+            "Rarity": "Uncommon",
+            "Rarity Link": "https://pkmncards.com/rarity/uncommon/"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/deluxe-bomb-stellar-crown-scr-134/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_134_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_134_std.png",
+        "details": {
+            "Name": "Deluxe Bomb",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_134_std.png",
+            "type": "Trainer",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "serial": "134",
+            "Date": "Sep 13, 2024",
+            "Rarity": "ACE SPEC Rare",
+            "Rarity Link": "https://pkmncards.com/rarity/ace-spec-rare/"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/grand-tree-stellar-crown-scr-136/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_136_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_136_std.png",
+        "details": {
+            "Name": "Grand Tree",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_136_std.png",
+            "type": "Trainer",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "serial": "136",
+            "Date": "Sep 13, 2024",
+            "Rarity": "ACE SPEC Rare",
+            "Rarity Link": "https://pkmncards.com/rarity/ace-spec-rare/"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/kofu-stellar-crown-scr-138/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_138_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_138_std.png",
+        "details": {
+            "Name": "Kofu",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_138_std.png",
+            "type": "Trainer",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "serial": "138",
+            "Date": "Sep 13, 2024",
+            "Rarity": "Uncommon",
+            "Rarity Link": "https://pkmncards.com/rarity/uncommon/"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/gravity-gemstone-stellar-crown-scr-137/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_137_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_137_std.png",
+        "details": {
+            "Name": "Gravity Gemstone",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_137_std.png",
+            "type": "Trainer",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "serial": "137",
+            "Date": "Sep 13, 2024",
+            "Rarity": "Uncommon",
+            "Rarity Link": "https://pkmncards.com/rarity/uncommon/"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/lacey-stellar-crown-scr-139/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_139_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_139_std.png",
+        "details": {
+            "Name": "Lacey",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_139_std.png",
+            "type": "Trainer",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "serial": "139",
+            "Date": "Sep 13, 2024",
+            "Rarity": "Uncommon",
+            "Rarity Link": "https://pkmncards.com/rarity/uncommon/"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/payapa-berry-stellar-crown-scr-141/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_141_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_141_std.png",
+        "details": {
+            "Name": "Payapa Berry",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_141_std.png",
+            "type": "Trainer",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "serial": "141",
+            "Date": "Sep 13, 2024",
+            "Rarity": "Uncommon",
+            "Rarity Link": "https://pkmncards.com/rarity/uncommon/"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/occa-berry-stellar-crown-scr-140/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_140_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_140_std.png",
+        "details": {
+            "Name": "Occa Berry",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_140_std.png",
+            "type": "Trainer",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "serial": "140",
+            "Date": "Sep 13, 2024",
+            "Rarity": "Uncommon",
+            "Rarity Link": "https://pkmncards.com/rarity/uncommon/"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/sparkling-crystal-stellar-crown-scr-142/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_142_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_142_std.png",
+        "details": {
+            "Name": "Sparkling Crystal",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_142_std.png",
+            "type": "Trainer",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "serial": "142",
+            "Date": "Sep 13, 2024",
+            "Rarity": "ACE SPEC Rare",
+            "Rarity Link": "https://pkmncards.com/rarity/ace-spec-rare/"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/bulbasaur-stellar-crown-scr-143/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_143_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_143_std.png",
+        "details": {
+            "serial": "143",
+            "Name": "Bulbasaur",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_143_std.png",
+            "Pokemon": "Bulbasaur",
+            "Pokemon Link": "https://pkmncards.com/pokemon/bulbasaur/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Grass",
+            "Color Link": "https://pkmncards.com/color/grass/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Illustration Rare",
+            "Rarity Link": "https://pkmncards.com/rarity/illustration-rare/",
+            "Evolution": [
+                "Dark Ivysaur"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "70 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/ledian-stellar-crown-scr-144/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_144_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_144_std.png",
+        "details": {
+            "serial": "144",
+            "Name": "Ledian",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_144_std.png",
+            "Pokemon": "Ledian",
+            "Pokemon Link": "https://pkmncards.com/pokemon/ledian/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Grass",
+            "Color Link": "https://pkmncards.com/color/grass/",
+            "Stage": "Stage 1",
+            "Stage Link": "https://pkmncards.com/stage/stage-1/",
+            "Rarity": "Illustration Rare",
+            "Rarity Link": "https://pkmncards.com/rarity/illustration-rare/",
+            "Evolution": [
+                "Ledyba"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "90 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/turtonator-stellar-crown-scr-146/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_146_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_146_std.png",
+        "details": {
+            "serial": "146",
+            "Name": "Turtonator",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_146_std.png",
+            "Pokemon": "Turtonator",
+            "Pokemon Link": "https://pkmncards.com/pokemon/turtonator/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Fire",
+            "Color Link": "https://pkmncards.com/color/fire/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Illustration Rare",
+            "Rarity Link": "https://pkmncards.com/rarity/illustration-rare/",
+            "Evolution": [],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "130 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/lileep-stellar-crown-scr-145/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_145_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_145_std.png",
+        "details": {
+            "serial": "145",
+            "Name": "Lileep",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_145_std.png",
+            "Pokemon": "Lileep",
+            "Pokemon Link": "https://pkmncards.com/pokemon/lileep/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Grass",
+            "Color Link": "https://pkmncards.com/color/grass/",
+            "Stage": "Stage 1",
+            "Stage Link": "https://pkmncards.com/stage/stage-1/",
+            "Rarity": "Illustration Rare",
+            "Rarity Link": "https://pkmncards.com/rarity/illustration-rare/",
+            "Evolution": [
+                "Antique Root Fossil",
+                "Cradily",
+                "Cradily ex"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "100 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/raboot-stellar-crown-scr-147/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_147_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_147_std.png",
+        "details": {
+            "serial": "147",
+            "Name": "Raboot",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_147_std.png",
+            "Pokemon": "Raboot",
+            "Pokemon Link": "https://pkmncards.com/pokemon/raboot/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Fire",
+            "Color Link": "https://pkmncards.com/color/fire/",
+            "Stage": "Stage 1",
+            "Stage Link": "https://pkmncards.com/stage/stage-1/",
+            "Rarity": "Illustration Rare",
+            "Rarity Link": "https://pkmncards.com/rarity/illustration-rare/",
+            "Evolution": [
+                "Scorbunny",
+                "Cinderace",
+                "Cinderace ex"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "90 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/crabominable-stellar-crown-scr-149/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_149_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_149_std.png",
+        "details": {
+            "serial": "149",
+            "Name": "Crabominable",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_149_std.png",
+            "Pokemon": "Crabominable",
+            "Pokemon Link": "https://pkmncards.com/pokemon/crabominable/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Water",
+            "Color Link": "https://pkmncards.com/color/water/",
+            "Stage": "Stage 1",
+            "Stage Link": "https://pkmncards.com/stage/stage-1/",
+            "Rarity": "Illustration Rare",
+            "Rarity Link": "https://pkmncards.com/rarity/illustration-rare/",
+            "Evolution": [
+                "Crabrawler"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "160 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/squirtle-stellar-crown-scr-148/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_148_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_148_std.png",
+        "details": {
+            "serial": "148",
+            "Name": "Squirtle",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_148_std.png",
+            "Pokemon": "Squirtle",
+            "Pokemon Link": "https://pkmncards.com/pokemon/squirtle/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Water",
+            "Color Link": "https://pkmncards.com/color/water/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Illustration Rare",
+            "Rarity Link": "https://pkmncards.com/rarity/illustration-rare/",
+            "Evolution": [
+                "Dark Wartortle"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "60 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/zeraora-stellar-crown-scr-151/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_151_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_151_std.png",
+        "details": {
+            "serial": "151",
+            "Name": "Zeraora",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_151_std.png",
+            "Pokemon": "Zeraora",
+            "Pokemon Link": "https://pkmncards.com/pokemon/zeraora/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Lightning",
+            "Color Link": "https://pkmncards.com/color/lightning/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Illustration Rare",
+            "Rarity Link": "https://pkmncards.com/rarity/illustration-rare/",
+            "Evolution": [],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "120 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/joltik-stellar-crown-scr-150/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_150_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_150_std.png",
+        "details": {
+            "serial": "150",
+            "Name": "Joltik",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_150_std.png",
+            "Pokemon": "Joltik",
+            "Pokemon Link": "https://pkmncards.com/pokemon/joltik/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Lightning",
+            "Color Link": "https://pkmncards.com/color/lightning/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Illustration Rare",
+            "Rarity Link": "https://pkmncards.com/rarity/illustration-rare/",
+            "Evolution": [
+                "Galvantula ex"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "30 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/milcery-stellar-crown-scr-152/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_152_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_152_std.png",
+        "details": {
+            "serial": "152",
+            "Name": "Milcery",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_152_std.png",
+            "Pokemon": "Milcery",
+            "Pokemon Link": "https://pkmncards.com/pokemon/milcery/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Psychic",
+            "Color Link": "https://pkmncards.com/color/psychic/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Illustration Rare",
+            "Rarity Link": "https://pkmncards.com/rarity/illustration-rare/",
+            "Evolution": [
+                "Alcremie"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "60 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/meditite-stellar-crown-scr-153/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_153_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_153_std.png",
+        "details": {
+            "serial": "153",
+            "Name": "Meditite",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_153_std.png",
+            "Pokemon": "Meditite",
+            "Pokemon Link": "https://pkmncards.com/pokemon/meditite/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Fighting",
+            "Color Link": "https://pkmncards.com/color/fighting/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Illustration Rare",
+            "Rarity Link": "https://pkmncards.com/rarity/illustration-rare/",
+            "Evolution": [
+                "Medicham",
+                "Medicham ex"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "70 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/gulpin-stellar-crown-scr-154/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_154_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_154_std.png",
+        "details": {
+            "serial": "154",
+            "Name": "Gulpin",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_154_std.png",
+            "Pokemon": "Gulpin",
+            "Pokemon Link": "https://pkmncards.com/pokemon/gulpin/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Darkness",
+            "Color Link": "https://pkmncards.com/color/darkness/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Illustration Rare",
+            "Rarity Link": "https://pkmncards.com/rarity/illustration-rare/",
+            "Evolution": [
+                "Swalot"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "70 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/hydrapple-ex-stellar-crown-scr-156/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_156_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_156_std.png",
+        "details": {
+            "serial": "156",
+            "Name": "Hydrapple ex",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_156_std.png",
+            "Pokemon": "Hydrapple",
+            "Pokemon Link": "https://pkmncards.com/pokemon/hydrapple/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Grass",
+            "Color Link": "https://pkmncards.com/color/grass/",
+            "Stage": "Stage 2",
+            "Stage Link": "https://pkmncards.com/stage/stage-2/",
+            "Rarity": "Ultra Rare",
+            "Rarity Link": "https://pkmncards.com/rarity/ultra-rare/",
+            "Evolution": [
+                "Dipplin"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "330 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/cinderace-ex-stellar-crown-scr-157/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_157_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_157_std.png",
+        "details": {
+            "serial": "157",
+            "Name": "Cinderace ex",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_157_std.png",
+            "Pokemon": "Cinderace",
+            "Pokemon Link": "https://pkmncards.com/pokemon/cinderace/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Fire",
+            "Color Link": "https://pkmncards.com/color/fire/",
+            "Stage": "Stage 2",
+            "Stage Link": "https://pkmncards.com/stage/stage-2/",
+            "Rarity": "Ultra Rare",
+            "Rarity Link": "https://pkmncards.com/rarity/ultra-rare/",
+            "Evolution": [
+                "Raboot"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "320 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/galvantula-ex-stellar-crown-scr-159/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_159_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_159_std.png",
+        "details": {
+            "serial": "159",
+            "Name": "Galvantula ex",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_159_std.png",
+            "Pokemon": "Galvantula",
+            "Pokemon Link": "https://pkmncards.com/pokemon/galvantula/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Lightning",
+            "Color Link": "https://pkmncards.com/color/lightning/",
+            "Stage": "Stage 1",
+            "Stage Link": "https://pkmncards.com/stage/stage-1/",
+            "Rarity": "Ultra Rare",
+            "Rarity Link": "https://pkmncards.com/rarity/ultra-rare/",
+            "Evolution": [
+                "Joltik"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "260 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/lapras-ex-stellar-crown-scr-158/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_158_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_158_std.png",
+        "details": {
+            "serial": "158",
+            "Name": "Lapras ex",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_158_std.png",
+            "Pokemon": "Lapras",
+            "Pokemon Link": "https://pkmncards.com/pokemon/lapras/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Water",
+            "Color Link": "https://pkmncards.com/color/water/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Ultra Rare",
+            "Rarity Link": "https://pkmncards.com/rarity/ultra-rare/",
+            "Evolution": [],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "220 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/archaludon-stellar-crown-scr-155/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_155_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_155_std.png",
+        "details": {
+            "serial": "155",
+            "Name": "Archaludon",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_155_std.png",
+            "Pokemon": "Archaludon",
+            "Pokemon Link": "https://pkmncards.com/pokemon/archaludon/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Metal",
+            "Color Link": "https://pkmncards.com/color/metal/",
+            "Stage": "Stage 1",
+            "Stage Link": "https://pkmncards.com/stage/stage-1/",
+            "Rarity": "Illustration Rare",
+            "Rarity Link": "https://pkmncards.com/rarity/illustration-rare/",
+            "Evolution": [
+                "Duraludon"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "180 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/dachsbun-ex-stellar-crown-scr-160/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_160_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_160_std.png",
+        "details": {
+            "serial": "160",
+            "Name": "Dachsbun ex",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_160_std.png",
+            "Pokemon": "Dachsbun",
+            "Pokemon Link": "https://pkmncards.com/pokemon/dachsbun/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Psychic",
+            "Color Link": "https://pkmncards.com/color/psychic/",
+            "Stage": "Stage 1",
+            "Stage Link": "https://pkmncards.com/stage/stage-1/",
+            "Rarity": "Ultra Rare",
+            "Rarity Link": "https://pkmncards.com/rarity/ultra-rare/",
+            "Evolution": [
+                "Fidough"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "250 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/orthworm-ex-stellar-crown-scr-162/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_162_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_162_std.png",
+        "details": {
+            "serial": "162",
+            "Name": "Orthworm ex",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_162_std.png",
+            "Pokemon": "Orthworm",
+            "Pokemon Link": "https://pkmncards.com/pokemon/orthworm/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Metal",
+            "Color Link": "https://pkmncards.com/color/metal/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Ultra Rare",
+            "Rarity Link": "https://pkmncards.com/rarity/ultra-rare/",
+            "Evolution": [],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "220 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/briar-stellar-crown-scr-163/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_163_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_163_std.png",
+        "details": {
+            "Name": "Briar",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_163_std.png",
+            "type": "Trainer",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "serial": "163",
+            "Date": "Sep 13, 2024",
+            "Rarity": "Ultra Rare",
+            "Rarity Link": "https://pkmncards.com/rarity/ultra-rare/"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/lacey-stellar-crown-scr-166/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_166_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_166_std.png",
+        "details": {
+            "Name": "Lacey",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_166_std.png",
+            "type": "Trainer",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "serial": "166",
+            "Date": "Sep 13, 2024",
+            "Rarity": "Ultra Rare",
+            "Rarity Link": "https://pkmncards.com/rarity/ultra-rare/"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/hydrapple-ex-stellar-crown-scr-167/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_167_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_167_std.png",
+        "details": {
+            "serial": "167",
+            "Name": "Hydrapple ex",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_167_std.png",
+            "Pokemon": "Hydrapple",
+            "Pokemon Link": "https://pkmncards.com/pokemon/hydrapple/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Grass",
+            "Color Link": "https://pkmncards.com/color/grass/",
+            "Stage": "Stage 2",
+            "Stage Link": "https://pkmncards.com/stage/stage-2/",
+            "Rarity": "Special Illustration Rare",
+            "Rarity Link": "https://pkmncards.com/rarity/special-illustration-rare/",
+            "Evolution": [
+                "Dipplin"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "330 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/crispin-stellar-crown-scr-164/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_164_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_164_std.png",
+        "details": {
+            "Name": "Crispin",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_164_std.png",
+            "type": "Trainer",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "serial": "164",
+            "Date": "Sep 13, 2024",
+            "Rarity": "Ultra Rare",
+            "Rarity Link": "https://pkmncards.com/rarity/ultra-rare/"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/medicham-ex-stellar-crown-scr-161/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_161_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_161_std.png",
+        "details": {
+            "serial": "161",
+            "Name": "Medicham ex",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_161_std.png",
+            "Pokemon": "Medicham",
+            "Pokemon Link": "https://pkmncards.com/pokemon/medicham/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Fighting",
+            "Color Link": "https://pkmncards.com/color/fighting/",
+            "Stage": "Stage 1",
+            "Stage Link": "https://pkmncards.com/stage/stage-1/",
+            "Rarity": "Ultra Rare",
+            "Rarity Link": "https://pkmncards.com/rarity/ultra-rare/",
+            "Evolution": [
+                "Meditite"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "260 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/kofu-stellar-crown-scr-165/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_165_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_165_std.png",
+        "details": {
+            "Name": "Kofu",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_165_std.png",
+            "type": "Trainer",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "serial": "165",
+            "Date": "Sep 13, 2024",
+            "Rarity": "Ultra Rare",
+            "Rarity Link": "https://pkmncards.com/rarity/ultra-rare/"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/galvantula-ex-stellar-crown-scr-168/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_168_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_168_std.png",
+        "details": {
+            "serial": "168",
+            "Name": "Galvantula ex",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_168_std.png",
+            "Pokemon": "Galvantula",
+            "Pokemon Link": "https://pkmncards.com/pokemon/galvantula/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Lightning",
+            "Color Link": "https://pkmncards.com/color/lightning/",
+            "Stage": "Stage 1",
+            "Stage Link": "https://pkmncards.com/stage/stage-1/",
+            "Rarity": "Special Illustration Rare",
+            "Rarity Link": "https://pkmncards.com/rarity/special-illustration-rare/",
+            "Evolution": [
+                "Joltik"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "260 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/dachsbun-ex-stellar-crown-scr-169/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_169_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_169_std.png",
+        "details": {
+            "serial": "169",
+            "Name": "Dachsbun ex",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_169_std.png",
+            "Pokemon": "Dachsbun",
+            "Pokemon Link": "https://pkmncards.com/pokemon/dachsbun/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Psychic",
+            "Color Link": "https://pkmncards.com/color/psychic/",
+            "Stage": "Stage 1",
+            "Stage Link": "https://pkmncards.com/stage/stage-1/",
+            "Rarity": "Special Illustration Rare",
+            "Rarity Link": "https://pkmncards.com/rarity/special-illustration-rare/",
+            "Evolution": [
+                "Fidough"
+            ],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "250 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/terapagos-ex-stellar-crown-scr-170/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_170_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_170_std.png",
+        "details": {
+            "serial": "170",
+            "Name": "Terapagos ex",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_170_std.png",
+            "Pokemon": "Terapagos",
+            "Pokemon Link": "https://pkmncards.com/pokemon/terapagos/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Colorless",
+            "Color Link": "https://pkmncards.com/color/colorless/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Special Illustration Rare",
+            "Rarity Link": "https://pkmncards.com/rarity/special-illustration-rare/",
+            "Evolution": [],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "230 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/briar-stellar-crown-scr-171/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_171_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_171_std.png",
+        "details": {
+            "Name": "Briar",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_171_std.png",
+            "type": "Trainer",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "serial": "171",
+            "Date": "Sep 13, 2024",
+            "Rarity": "Special Illustration Rare",
+            "Rarity Link": "https://pkmncards.com/rarity/special-illustration-rare/"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/lacey-stellar-crown-scr-172/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_172_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_172_std.png",
+        "details": {
+            "Name": "Lacey",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_172_std.png",
+            "type": "Trainer",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "serial": "172",
+            "Date": "Sep 13, 2024",
+            "Rarity": "Special Illustration Rare",
+            "Rarity Link": "https://pkmncards.com/rarity/special-illustration-rare/"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/area-zero-underdepths-stellar-crown-scr-174/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_174_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_174_std.png",
+        "details": {
+            "Name": "Area Zero Underdepths",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_174_std.png",
+            "type": "Trainer",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "serial": "174",
+            "Date": "Sep 13, 2024",
+            "Rarity": "Hyper Rare",
+            "Rarity Link": "https://pkmncards.com/rarity/hyper-rare/"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/terapagos-ex-stellar-crown-scr-173/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_173_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_173_std.png",
+        "details": {
+            "serial": "173",
+            "Name": "Terapagos ex",
+            "type": "Pokemon",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_173_std.png",
+            "Pokemon": "Terapagos",
+            "Pokemon Link": "https://pkmncards.com/pokemon/terapagos/",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "Color": "Colorless",
+            "Color Link": "https://pkmncards.com/color/colorless/",
+            "Stage": "Basic",
+            "Stage Link": "https://pkmncards.com/stage/basic/",
+            "Rarity": "Hyper Rare",
+            "Rarity Link": "https://pkmncards.com/rarity/hyper-rare/",
+            "Evolution": [],
+            "Date": "Sep 13, 2024",
+            "Level": "NONE",
+            "Level Link": "NONE",
+            "HP": "230 HP"
+        }
+    },
+    {
+        "url": "https://pkmncards.com/card/bravery-charm-stellar-crown-scr-175/",
+        "ImageJPG": "https://pkmncards.com/wp-content/uploads/sv7_en_175_std.jpg",
+        "image": "https://pkmncards.com/wp-content/uploads/sv7_en_175_std.png",
+        "details": {
+            "Name": "Bravery Charm",
+            "image": "https://pkmncards.com/wp-content/uploads/sv7_en_175_std.png",
+            "type": "Trainer",
+            "Set": "Stellar Crown",
+            "Set Link": "https://pkmncards.com/set/stellar-crown/",
+            "serial": "175",
+            "Date": "Sep 13, 2024",
+            "Rarity": "Hyper Rare",
+            "Rarity Link": "https://pkmncards.com/rarity/hyper-rare/"
+        }
+    }
+]
